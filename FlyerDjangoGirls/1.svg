@@ -1,0 +1,3236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns1="http://sozi.baierouge.fr"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="680"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="1.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24563786"
+     inkscape:cx="1118.4018"
+     inkscape:cy="192.04951"
+     inkscape:document-units="px"
+     inkscape:current-layer="text3335"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4852"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4848"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4839"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3882"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3878"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4587"
+       is_visible="true" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4443">
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.4548;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4445"
+         sodipodi:cx="-204.60962"
+         sodipodi:cy="4771.4429"
+         sodipodi:rx="189.29126"
+         sodipodi:ry="189.29126"
+         d="m -15.318359,4771.4429 a 189.29126,189.29126 0 1 1 -378.582521,0 189.29126,189.29126 0 1 1 378.582521,0 z"
+         transform="matrix(0.95375723,0,0,0.95375723,430.45375,229.20976)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4451">
+      <path
+         transform="matrix(1.3216162,0,0,1.3216162,1429.3264,-1754.7999)"
+         d="m -15.318359,4771.4429 a 189.29126,189.29126 0 1 1 -378.582521,0 189.29126,189.29126 0 1 1 378.582521,0 z"
+         sodipodi:ry="189.29126"
+         sodipodi:rx="189.29126"
+         sodipodi:cy="4771.4429"
+         sodipodi:cx="-204.60962"
+         id="path4453"
+         style="opacity:0.4548;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4457">
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.4548;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4459"
+         sodipodi:cx="-346.72342"
+         sodipodi:cy="5390.9077"
+         sodipodi:rx="186.87041"
+         sodipodi:ry="186.87041"
+         d="m -159.85301,5390.9077 a 186.87041,186.87041 0 1 1 -373.74082,0 186.87041,186.87041 0 1 1 373.74082,0 z"
+         transform="matrix(1.126506,0,0,1.126506,471.74654,-688.52525)"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4463">
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.4548;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4465"
+         sodipodi:cx="-748.24756"
+         sodipodi:cy="5595.9761"
+         sodipodi:rx="308.8511"
+         sodipodi:ry="308.8511"
+         d="m -439.39645,5595.9761 a 308.8511,308.8511 0 1 1 -617.70225,0 308.8511,308.8511 0 1 1 617.70225,0 z"
+         transform="translate(-9.5520962,-82.784834)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3428">
+      <rect
+         y="4601.5244"
+         x="-1349.5476"
+         height="258.51062"
+         width="543.48297"
+         id="rect3430"
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3432">
+      <rect
+         style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3434"
+         width="543.48303"
+         height="258.51062"
+         x="-800.50433"
+         y="4950.377" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6137">
+      <rect
+         style="opacity:0.43160041;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6139"
+         width="168.66537"
+         height="198.06577"
+         x="1042.9401"
+         y="1091.0469" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6143">
+      <rect
+         style="opacity:0.43160041;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect6145"
+         width="420.88974"
+         height="201.16054"
+         x="1191.4894"
+         y="1343.2712" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3421">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1999.594,2231.3294 6.8386,0 0,15.0448 132.668,0 0,216.0984 -87.5335,0 0,102.5784 43.7667,0 0,102.5783 -272.1745,0 0,-348.7664 117.6231,0 0,-84.7981 58.8116,0 z"
+         id="path3423"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3425">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1999.594,2231.3294 6.8386,0 0,15.0448 132.668,0 0,216.0984 -87.5335,0 0,102.5784 43.7667,0 0,102.5783 -272.1745,0 0,-348.7664 117.6231,0 0,-84.7981 58.8116,0 z"
+         id="path3427"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3429">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1999.594,2231.3294 6.8386,0 0,15.0448 132.668,0 0,216.0984 -87.5335,0 0,102.5784 43.7667,0 0,102.5783 -272.1745,0 0,-348.7664 117.6231,0 0,-84.7981 58.8116,0 z"
+         id="path3431"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3433">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1999.594,2231.3294 6.8386,0 0,15.0448 132.668,0 0,216.0984 -87.5335,0 0,102.5784 43.7667,0 0,102.5783 -272.1745,0 0,-348.7664 117.6231,0 0,-84.7981 58.8116,0 z"
+         id="path3435"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3437">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1999.594,2231.3294 6.8386,0 0,15.0448 132.668,0 0,216.0984 -87.5335,0 0,102.5784 43.7667,0 0,102.5783 -272.1745,0 0,-348.7664 117.6231,0 0,-84.7981 58.8116,0 z"
+         id="path3439"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3441">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1999.594,2231.3294 6.8386,0 0,15.0448 132.668,0 0,216.0984 -87.5335,0 0,102.5784 43.7667,0 0,102.5783 -272.1745,0 0,-348.7664 117.6231,0 0,-84.7981 58.8116,0 z"
+         id="path3443"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3470">
+      <rect
+         style="opacity:0.71280009;fill:#f02806;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3472"
+         width="618.44696"
+         height="221.28568"
+         x="906.05798"
+         y="2397.6892" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-372.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3511"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3513"><rect
+           id="rect3515"
+           width="358.99689"
+           height="163.6877"
+           x="-677.07184"
+           y="964.93805"
+           style="font-size:18px" /></flowRegion><flowPara
+         id="flowPara3517" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3519"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3521"><rect
+           id="rect3523"
+           width="381.31793"
+           height="170.198"
+           x="-690.09247"
+           y="957.49774" /></flowRegion><flowPara
+         id="flowPara3525" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="182.8125"
+       y="2125.7998"
+       id="text3884"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3886"
+         x="182.8125"
+         y="2125.7998" /></text>
+    <g
+       style="font-size:39.76952744px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.59415203;font-family:Sans"
+       id="text3335">
+      <g
+         id="g3125">
+        <rect
+           y="372.36218"
+           x="1.2109375e-06"
+           height="680"
+           width="1200"
+           id="rect3333"
+           style="fill:#f49e00;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <image
+           width="874.67664"
+           height="296.20953"
+           xlink:href="data:image/png;base64,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 "
+           id="image2993"
+           x="162.66168"
+           y="564.25739" />
+        <path
+           id="path3041"
+           style=""
+           d="m 142.36882,883.54617 -3.942,0 0,-4.93235 3.942,0 0,4.93235 m 0,24.05979 -3.942,0 0,-12.71926 0.40779,-6.93248 3.14583,0 0.38838,6.93248 0,12.71926" />
+        <path
+           id="path3043"
+           style=""
+           d="m 148.23327,878.61382 24.52584,0 0,3.30118 -10.29192,0 0,25.69096 -3.942,0 0,-25.69096 -10.29192,0 0,-3.30118" />
+        <path
+           id="path3045"
+           style=""
+           d="m 179.69159,896.67322 c -2.88693,10e-6 -4.88705,0.33013 -6.00038,0.99036 -1.11335,0.66024 -1.67002,1.78653 -1.67001,3.37885 -1e-5,1.2687 0.41426,2.27847 1.24279,3.02932 0.84147,0.73791 1.9807,1.10687 3.4177,1.10687 1.98069,0 3.56655,-0.69907 4.75758,-2.09722 1.20395,-1.41109 1.80593,-3.28176 1.80594,-5.61201 l 0,-0.79617 -3.55362,0 m 7.12667,-1.47582 0,12.40856 -3.57305,0 0,-3.30118 c -0.8156,1.32047 -1.83184,2.29788 -3.04874,2.93222 -1.21691,0.6214 -2.70568,0.9321 -4.4663,0.9321 -2.22669,0 -4.00026,-0.6214 -5.32073,-1.8642 -1.30753,-1.25574 -1.96129,-2.93222 -1.96129,-5.02944 0,-2.44675 0.81559,-4.29153 2.44676,-5.53434 1.64411,-1.24278 4.09087,-1.86418 7.34027,-1.86419 l 5.01003,0 0,-0.34954 c -10e-6,-1.6441 -0.54374,-2.91279 -1.63117,-3.80607 -1.07452,-0.90619 -2.58917,-1.35929 -4.54398,-1.35931 -1.24281,2e-5 -2.45324,0.1489 -3.6313,0.44663 -1.17807,0.29777 -2.31083,0.7444 -3.39827,1.33989 l 0,-3.30118 c 1.30752,-0.50486 2.57621,-0.88029 3.80606,-1.12628 1.22985,-0.2589 2.42733,-0.38836 3.59247,-0.38838 3.14581,2e-5 5.49548,0.81561 7.04899,2.44676 1.55348,1.63119 2.33023,4.10384 2.33025,7.41795" />
+        <path
+           id="path3047"
+           style=""
+           d="m 194.19737,877.39044 3.57304,0 0,30.21552 -3.57304,0 0,-30.21552" />
+        <path
+           id="path3049"
+           style=""
+           d="m 205.2272,877.39044 3.57304,0 0,30.21552 -3.57304,0 0,-30.21552" />
+        <path
+           id="path3051"
+           style=""
+           d="m 234.86016,895.83822 0,1.74768 -16.42824,0 c 0.15535,2.45971 0.89326,4.33685 2.21374,5.63143 1.33341,1.28164 3.18466,1.92245 5.55375,1.92245 1.37224,0 2.69919,-0.16829 3.98084,-0.50489 1.29456,-0.33658 2.57619,-0.84147 3.8449,-1.51466 l 0,3.37886 c -1.28165,0.54372 -2.59565,0.95799 -3.942,1.2428 -1.34638,0.28481 -2.71216,0.42721 -4.09735,0.42721 -3.46948,0 -6.22046,-1.00977 -8.25295,-3.02932 -2.01955,-2.01954 -3.02932,-4.7511 -3.02932,-8.1947 0,-3.56008 0.95799,-6.38226 2.87397,-8.46656 1.92892,-2.0972 4.52455,-3.14581 7.78691,-3.14583 2.92573,2e-5 5.23656,0.94507 6.93248,2.83513 1.70882,1.87716 2.56324,4.43396 2.56327,7.6704 m -3.57305,-1.04861 c -0.0259,-1.95481 -0.5761,-3.51478 -1.65059,-4.67991 -1.06157,-1.16511 -2.47266,-1.74767 -4.23328,-1.74769 -1.99366,2e-5 -3.59247,0.56316 -4.79642,1.68943 -1.19102,1.1263 -1.87715,2.71216 -2.05838,4.75758 l 12.73867,-0.0194" />
+        <path
+           id="path3053"
+           style=""
+           d="m 253.32736,889.19702 c -0.40134,-0.23301 -0.8415,-0.40131 -1.32048,-0.50489 -0.46606,-0.11649 -0.98389,-0.17475 -1.55349,-0.17477 -2.01956,2e-5 -3.57306,0.66026 -4.66049,1.98071 -1.07451,1.30754 -1.61177,3.19116 -1.61176,5.65085 l 0,11.45704 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.75085,-1.32045 1.72826,-2.29786 2.93223,-2.93222 1.20395,-0.64727 2.66682,-0.97092 4.38863,-0.97094 0.24595,2e-5 0.51781,0.0194 0.81558,0.0583 0.29774,0.0259 0.62786,0.0712 0.99036,0.13593 l 0.0194,3.67014" />
+        <path
+           id="path3055"
+           style=""
+           d="m 284.0866,889.15818 0,-11.76774 3.57304,0 0,30.21552 -3.57304,0 0,-3.26235 c -0.75088,1.29459 -1.70239,2.25905 -2.85456,2.89339 -1.13924,0.6214 -2.5115,0.9321 -4.11676,0.9321 -2.62801,0 -4.77054,-1.04861 -6.4276,-3.14583 -1.64412,-2.09722 -2.46618,-4.85467 -2.46617,-8.27237 -1e-5,-3.41768 0.82205,-6.17514 2.46617,-8.27238 1.65706,-2.0972 3.79959,-3.14581 6.4276,-3.14583 1.60526,2e-5 2.97752,0.3172 4.11676,0.95152 1.15217,0.62142 2.10368,1.57941 2.85456,2.87397 m -12.17554,7.59272 c 0,2.628 0.53725,4.69286 1.61175,6.19457 1.08744,1.48877 2.57621,2.23315 4.46631,2.23315 1.89007,0 3.37884,-0.74438 4.4663,-2.23315 1.08743,-1.50171 1.63116,-3.56657 1.63118,-6.19457 -2e-5,-2.62799 -0.54375,-4.68637 -1.63118,-6.17516 -1.08746,-1.50169 -2.57623,-2.25255 -4.4663,-2.25257 -1.8901,2e-5 -3.37887,0.75088 -4.46631,2.25257 -1.0745,1.48879 -1.61175,3.54717 -1.61175,6.17516" />
+        <path
+           id="path3057"
+           style=""
+           d="m 313.62247,895.83822 0,1.74768 -16.42823,0 c 0.15534,2.45971 0.89325,4.33685 2.21373,5.63143 1.33341,1.28164 3.18466,1.92245 5.55375,1.92245 1.37224,0 2.69919,-0.16829 3.98084,-0.50489 1.29456,-0.33658 2.5762,-0.84147 3.84491,-1.51466 l 0,3.37886 c -1.28166,0.54372 -2.59566,0.95799 -3.942,1.2428 -1.34638,0.28481 -2.71217,0.42721 -4.09735,0.42721 -3.46949,0 -6.22047,-1.00977 -8.25296,-3.02932 -2.01955,-2.01954 -3.02932,-4.7511 -3.02932,-8.1947 0,-3.56008 0.95799,-6.38226 2.87397,-8.46656 1.92892,-2.0972 4.52456,-3.14581 7.78691,-3.14583 2.92574,2e-5 5.23656,0.94507 6.93248,2.83513 1.70883,1.87716 2.56325,4.43396 2.56327,7.6704 m -3.57304,-1.04861 c -0.0259,-1.95481 -0.57611,-3.51478 -1.65059,-4.67991 -1.06158,-1.16511 -2.47267,-1.74767 -4.23328,-1.74769 -1.99367,2e-5 -3.59247,0.56316 -4.79643,1.68943 -1.19102,1.1263 -1.87714,2.71216 -2.05838,4.75758 l 12.73868,-0.0194" />
+        <path
+           id="path3059"
+           style=""
+           d="m 335.60444,904.34361 0,11.53472 -3.59246,0 0,-30.02133 3.59246,0 0,3.30118 c 0.75085,-1.29456 1.6959,-2.25255 2.83514,-2.87397 1.15216,-0.63432 2.52442,-0.9515 4.11676,-0.95152 2.64093,2e-5 4.78346,1.04863 6.4276,3.14583 1.65704,2.09724 2.48557,4.8547 2.48559,8.27238 -2e-5,3.4177 -0.82855,6.17515 -2.48559,8.27237 -1.64414,2.09722 -3.78667,3.14583 -6.4276,3.14583 -1.59234,0 -2.9646,-0.3107 -4.11676,-0.9321 -1.13924,-0.63434 -2.08429,-1.5988 -2.83514,-2.89339 m 12.15612,-7.59271 c -2e-5,-2.62799 -0.54374,-4.68637 -1.63117,-6.17516 -1.07452,-1.50169 -2.55682,-2.25255 -4.44689,-2.25257 -1.8901,2e-5 -3.37886,0.75088 -4.4663,2.25257 -1.07451,1.48879 -1.61176,3.54717 -1.61176,6.17516 0,2.628 0.53725,4.69286 1.61176,6.19457 1.08744,1.48877 2.5762,2.23315 4.4663,2.23315 1.89007,0 3.37237,-0.74438 4.44689,-2.23315 1.08743,-1.50171 1.63115,-3.56657 1.63117,-6.19457" />
+        <path
+           id="path3061"
+           style=""
+           d="m 369.995,889.19702 c -0.40134,-0.23301 -0.8415,-0.40131 -1.32048,-0.50489 -0.46606,-0.11649 -0.98389,-0.17475 -1.55349,-0.17477 -2.01956,2e-5 -3.57306,0.66026 -4.66049,1.98071 -1.07451,1.30754 -1.61176,3.19116 -1.61176,5.65085 l 0,11.45704 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.75085,-1.32045 1.72826,-2.29786 2.93223,-2.93222 1.20395,-0.64727 2.66682,-0.97092 4.38863,-0.97094 0.24595,2e-5 0.51782,0.0194 0.81558,0.0583 0.29774,0.0259 0.62786,0.0712 0.99036,0.13593 l 0.0194,3.67014" />
+        <path
+           id="path3063"
+           style=""
+           d="m 381.35495,888.36201 c -1.91599,2e-5 -3.43065,0.75088 -4.54398,2.25257 -1.11335,1.48879 -1.67002,3.53422 -1.67001,6.13632 -1e-5,2.60211 0.55019,4.65402 1.65059,6.15573 1.11333,1.48877 2.63446,2.23315 4.5634,2.23315 1.90302,0 3.4112,-0.75085 4.52456,-2.25257 1.11332,-1.50171 1.66999,-3.54714 1.67001,-6.13631 -2e-5,-2.57621 -0.55669,-4.61517 -1.67001,-6.1169 -1.11336,-1.51464 -2.62154,-2.27197 -4.52456,-2.27199 m 0,-3.02932 c 3.10698,2e-5 5.54726,1.0098 7.32085,3.02932 1.77356,2.01956 2.66034,4.81586 2.66037,8.38889 -3e-5,3.5601 -0.88681,6.35639 -2.66037,8.38888 -1.77359,2.01955 -4.21387,3.02932 -7.32085,3.02932 -3.11995,0 -5.56671,-1.00977 -7.34028,-3.02932 -1.76063,-2.03249 -2.64094,-4.82878 -2.64094,-8.38888 0,-3.57303 0.88031,-6.36933 2.64094,-8.38889 1.77357,-2.01952 4.22033,-3.0293 7.34028,-3.02932" />
+        <path
+           id="path3065"
+           style=""
+           d="m 411.55103,896.47903 c -2e-5,-2.58914 -0.53727,-4.59574 -1.61176,-6.0198 -1.06157,-1.42402 -2.55681,-2.13604 -4.48572,-2.13606 -1.91599,2e-5 -3.41123,0.71204 -4.48572,2.13606 -1.06156,1.42406 -1.59234,3.43066 -1.59234,6.0198 0,2.57623 0.53078,4.57635 1.59234,6.00039 1.07449,1.42404 2.56973,2.13606 4.48572,2.13605 1.92891,1e-5 3.42415,-0.71201 4.48572,-2.13605 1.07449,-1.42404 1.61174,-3.42416 1.61176,-6.00039 m 3.57304,8.42773 c -2e-5,3.7025 -0.82208,6.45348 -2.46618,8.25295 -1.64413,1.81241 -4.16209,2.71861 -7.55388,2.71862 -1.25575,-10e-6 -2.44029,-0.0971 -3.55362,-0.29128 -1.11335,-0.18125 -2.19432,-0.46606 -3.24293,-0.85442 l 0,-3.47595 c 1.04861,0.56961 2.08427,0.99035 3.107,1.26221 1.02271,0.27186 2.06485,0.40779 3.12641,0.40779 2.34318,0 4.09734,-0.61493 5.26247,-1.84477 1.16511,-1.21691 1.74767,-3.06169 1.74769,-5.53434 l 0,-1.7671 c -0.73793,1.28164 -1.68297,2.23963 -2.83513,2.87397 -1.1522,0.63435 -2.53092,0.95152 -4.13619,0.95152 -2.66685,0 -4.81585,-1.01625 -6.44701,-3.04874 -1.63118,-2.03249 -2.44676,-4.72521 -2.44676,-8.07819 0,-3.36589 0.81558,-6.06509 2.44676,-8.0976 1.63116,-2.03247 3.78016,-3.04872 6.44701,-3.04874 1.60527,2e-5 2.98399,0.3172 4.13619,0.95152 1.15216,0.63436 2.0972,1.59235 2.83513,2.87397 l 0,-3.30118 3.57304,0 0,19.04976" />
+        <path
+           id="path3067"
+           style=""
+           d="m 435.08653,889.19702 c -0.40133,-0.23301 -0.84149,-0.40131 -1.32047,-0.50489 -0.46606,-0.11649 -0.98389,-0.17475 -1.55349,-0.17477 -2.01956,2e-5 -3.57306,0.66026 -4.6605,1.98071 -1.07451,1.30754 -1.61176,3.19116 -1.61175,5.65085 l 0,11.45704 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.75085,-1.32045 1.72826,-2.29786 2.93223,-2.93222 1.20395,-0.64727 2.66682,-0.97092 4.38863,-0.97094 0.24595,2e-5 0.51781,0.0194 0.81558,0.0583 0.29774,0.0259 0.62786,0.0712 0.99036,0.13593 l 0.0194,3.67014" />
+        <path
+           id="path3069"
+           style=""
+           d="m 448.75729,896.67322 c -2.88693,10e-6 -4.88705,0.33013 -6.00038,0.99036 -1.11335,0.66024 -1.67002,1.78653 -1.67001,3.37885 -1e-5,1.2687 0.41426,2.27847 1.24279,3.02932 0.84147,0.73791 1.9807,1.10687 3.4177,1.10687 1.98069,0 3.56655,-0.69907 4.75758,-2.09722 1.20395,-1.41109 1.80593,-3.28176 1.80594,-5.61201 l 0,-0.79617 -3.55362,0 m 7.12667,-1.47582 0,12.40856 -3.57305,0 0,-3.30118 c -0.8156,1.32047 -1.83184,2.29788 -3.04873,2.93222 -1.21692,0.6214 -2.70569,0.9321 -4.46631,0.9321 -2.22669,0 -4.00026,-0.6214 -5.32073,-1.8642 -1.30753,-1.25574 -1.96129,-2.93222 -1.96129,-5.02944 0,-2.44675 0.81559,-4.29153 2.44676,-5.53434 1.64411,-1.24278 4.09087,-1.86418 7.34027,-1.86419 l 5.01003,0 0,-0.34954 c -10e-6,-1.6441 -0.54374,-2.91279 -1.63117,-3.80607 -1.07452,-0.90619 -2.58917,-1.35929 -4.54398,-1.35931 -1.24281,2e-5 -2.45324,0.1489 -3.6313,0.44663 -1.17807,0.29777 -2.31083,0.7444 -3.39827,1.33989 l 0,-3.30118 c 1.30752,-0.50486 2.57621,-0.88029 3.80607,-1.12628 1.22984,-0.2589 2.42732,-0.38836 3.59246,-0.38838 3.14581,2e-5 5.49548,0.81561 7.04899,2.44676 1.55348,1.63119 2.33023,4.10384 2.33025,7.41795" />
+        <path
+           id="path3071"
+           style=""
+           d="m 480.19621,890.03202 c 0.89323,-1.60526 1.96126,-2.7898 3.20408,-3.55362 1.24278,-0.76379 2.70565,-1.14569 4.38863,-1.14571 2.26549,2e-5 4.01317,0.79619 5.24306,2.3885 1.22981,1.57941 1.84474,3.83198 1.84477,6.75772 l 0,13.12705 -3.59246,0 0,-13.01054 c -3e-5,-2.08426 -0.36899,-3.63128 -1.10687,-4.64107 -0.73794,-1.00976 -1.86422,-1.51465 -3.37885,-1.51466 -1.85128,10e-6 -3.31415,0.61494 -4.38863,1.84477 -1.07453,1.22987 -1.61178,2.90635 -1.61175,5.02945 l 0,12.29205 -3.59247,0 0,-13.01054 c -10e-6,-2.09721 -0.36897,-3.64423 -1.10686,-4.64107 -0.73793,-1.00976 -1.87716,-1.51465 -3.4177,-1.51466 -1.82537,10e-6 -3.2753,0.62141 -4.34979,1.86419 -1.07451,1.22987 -1.61176,2.89988 -1.61175,5.01003 l 0,12.29205 -3.59247,0 0,-21.74896 3.59247,0 0,3.37885 c 0.81558,-1.3334 1.79298,-2.31728 2.93222,-2.95164 1.13922,-0.63432 2.49206,-0.9515 4.05851,-0.95152 1.57938,2e-5 2.91927,0.40134 4.01968,1.20396 1.11332,0.80266 1.93538,1.96778 2.46618,3.49537" />
+        <path
+           id="path3073"
+           style=""
+           d="m 511.90695,896.67322 c -2.88693,10e-6 -4.88706,0.33013 -6.00039,0.99036 -1.11334,0.66024 -1.67001,1.78653 -1.67001,3.37885 0,1.2687 0.41426,2.27847 1.2428,3.02932 0.84147,0.73791 1.9807,1.10687 3.4177,1.10687 1.98069,0 3.56655,-0.69907 4.75758,-2.09722 1.20394,-1.41109 1.80592,-3.28176 1.80594,-5.61201 l 0,-0.79617 -3.55362,0 m 7.12667,-1.47582 0,12.40856 -3.57305,0 0,-3.30118 c -0.8156,1.32047 -1.83185,2.29788 -3.04874,2.93222 -1.21692,0.6214 -2.70568,0.9321 -4.4663,0.9321 -2.22669,0 -4.00026,-0.6214 -5.32073,-1.8642 -1.30753,-1.25574 -1.96129,-2.93222 -1.96129,-5.02944 0,-2.44675 0.81558,-4.29153 2.44676,-5.53434 1.64411,-1.24278 4.09087,-1.86418 7.34027,-1.86419 l 5.01003,0 0,-0.34954 c -2e-5,-1.6441 -0.54374,-2.91279 -1.63117,-3.80607 -1.07452,-0.90619 -2.58918,-1.35929 -4.54398,-1.35931 -1.24281,2e-5 -2.45324,0.1489 -3.6313,0.44663 -1.17807,0.29777 -2.31083,0.7444 -3.39827,1.33989 l 0,-3.30118 c 1.30752,-0.50486 2.57621,-0.88029 3.80606,-1.12628 1.22985,-0.2589 2.42733,-0.38836 3.59247,-0.38838 3.14581,2e-5 5.49548,0.81561 7.04899,2.44676 1.55348,1.63119 2.33022,4.10384 2.33025,7.41795" />
+        <path
+           id="path3075"
+           style=""
+           d="m 542.06423,886.692 0,3.34002 c -1.00979,-0.55665 -2.02604,-0.97092 -3.04874,-1.2428 -1.00979,-0.28479 -2.03251,-0.42719 -3.06816,-0.42721 -2.31731,2e-5 -4.11677,0.73793 -5.3984,2.21373 -1.28164,1.4629 -1.92246,3.52128 -1.92245,6.17516 -10e-6,2.65389 0.64081,4.71875 1.92245,6.19457 1.28163,1.46288 3.08109,2.19431 5.3984,2.19431 1.03565,0 2.05837,-0.13593 3.06816,-0.40779 1.0227,-0.28481 2.03895,-0.70555 3.04874,-1.26222 l 0,3.30118 c -0.99685,0.46605 -2.03251,0.81559 -3.107,1.04861 -1.06157,0.23303 -2.19433,0.34954 -3.39827,0.34954 -3.2753,0 -5.87741,-1.02919 -7.80632,-3.08758 -1.92893,-2.05838 -2.8934,-4.83525 -2.89339,-8.33062 -10e-6,-3.54714 0.97093,-6.33696 2.9128,-8.36947 1.95481,-2.03247 4.62812,-3.04872 8.01993,-3.04874 1.10038,2e-5 2.17488,0.11654 3.22351,0.34954 1.04859,0.2201 2.06484,0.55669 3.04874,1.00977" />
+        <path
+           id="path3077"
+           style=""
+           d="m 548.31704,885.857 3.57304,0 0,21.74896 -3.57304,0 0,-21.74896 m 0,-8.46656 3.57304,0 0,4.52456 -3.57304,0 0,-4.52456" />
+        <path
+           id="path3079"
+           style=""
+           d="m 567.77461,888.36201 c -1.91599,2e-5 -3.43065,0.75088 -4.54398,2.25257 -1.11335,1.48879 -1.67002,3.53422 -1.67001,6.13632 -10e-6,2.60211 0.55019,4.65402 1.65059,6.15573 1.11333,1.48877 2.63446,2.23315 4.5634,2.23315 1.90302,0 3.4112,-0.75085 4.52456,-2.25257 1.11332,-1.50171 1.66999,-3.54714 1.67001,-6.13631 -2e-5,-2.57621 -0.55669,-4.61517 -1.67001,-6.1169 -1.11336,-1.51464 -2.62154,-2.27197 -4.52456,-2.27199 m 0,-3.02932 c 3.10698,2e-5 5.54726,1.0098 7.32085,3.02932 1.77356,2.01956 2.66035,4.81586 2.66037,8.38889 -2e-5,3.5601 -0.88681,6.35639 -2.66037,8.38888 -1.77359,2.01955 -4.21387,3.02932 -7.32085,3.02932 -3.11995,0 -5.56671,-1.00977 -7.34027,-3.02932 -1.76064,-2.03249 -2.64095,-4.82878 -2.64095,-8.38888 0,-3.57303 0.88031,-6.36933 2.64095,-8.38889 1.77356,-2.01952 4.22032,-3.0293 7.34027,-3.02932 m 2.6992,-9.53459 3.86432,0 -6.3305,7.30144 -2.97106,0 5.43724,-7.30144" />
+        <path
+           id="path3081"
+           style=""
+           d="m 601.73794,894.47891 0,13.12705 -3.57305,0 0,-13.01054 c -2e-5,-2.05837 -0.40134,-3.59892 -1.20396,-4.62166 -0.80265,-1.0227 -2.00661,-1.53406 -3.61188,-1.53407 -1.92894,10e-6 -3.45007,0.61494 -4.5634,1.84477 -1.11334,1.22987 -1.67001,2.90635 -1.67001,5.02945 l 0,12.29205 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.85442,-1.3075 1.85772,-2.28491 3.0099,-2.93222 1.16512,-0.64727 2.50501,-0.97092 4.01968,-0.97094 2.49852,2e-5 4.38861,0.77677 5.67026,2.33025 1.28162,1.54057 1.92243,3.81255 1.92246,6.81597" />
+        <path
+           id="path3083"
+           style=""
+           d="m 635.87604,896.47903 c -2e-5,-2.58914 -0.53727,-4.59574 -1.61175,-6.0198 -1.06158,-1.42402 -2.55681,-2.13604 -4.48573,-2.13606 -1.91599,2e-5 -3.41123,0.71204 -4.48572,2.13606 -1.06156,1.42406 -1.59234,3.43066 -1.59233,6.0198 -10e-6,2.57623 0.53077,4.57635 1.59233,6.00039 1.07449,1.42404 2.56973,2.13606 4.48572,2.13605 1.92892,1e-5 3.42415,-0.71201 4.48573,-2.13605 1.07448,-1.42404 1.61173,-3.42416 1.61175,-6.00039 m 3.57304,8.42773 c -2e-5,3.7025 -0.82208,6.45348 -2.46617,8.25295 -1.64414,1.81241 -4.1621,2.71861 -7.55388,2.71862 -1.25576,-10e-6 -2.4403,-0.0971 -3.55363,-0.29128 -1.11334,-0.18125 -2.19432,-0.46606 -3.24292,-0.85442 l 0,-3.47595 c 1.0486,0.56961 2.08426,0.99035 3.10699,1.26221 1.02271,0.27186 2.06485,0.40779 3.12641,0.40779 2.34318,0 4.09734,-0.61493 5.26248,-1.84477 1.1651,-1.21691 1.74766,-3.06169 1.74768,-5.53434 l 0,-1.7671 c -0.73793,1.28164 -1.68297,2.23963 -2.83513,2.87397 -1.15219,0.63435 -2.53092,0.95152 -4.13619,0.95152 -2.66684,0 -4.81585,-1.01625 -6.44701,-3.04874 -1.63118,-2.03249 -2.44676,-4.72521 -2.44676,-8.07819 0,-3.36589 0.81558,-6.06509 2.44676,-8.0976 1.63116,-2.03247 3.78017,-3.04872 6.44701,-3.04874 1.60527,2e-5 2.984,0.3172 4.13619,0.95152 1.15216,0.63436 2.0972,1.59235 2.83513,2.87397 l 0,-3.30118 3.57304,0 0,19.04976" />
+        <path
+           id="path3085"
+           style=""
+           d="m 659.41152,889.19702 c -0.40134,-0.23301 -0.8415,-0.40131 -1.32048,-0.50489 -0.46606,-0.11649 -0.98389,-0.17475 -1.55349,-0.17477 -2.01956,2e-5 -3.57306,0.66026 -4.66049,1.98071 -1.07451,1.30754 -1.61177,3.19116 -1.61176,5.65085 l 0,11.45704 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.75085,-1.32045 1.72826,-2.29786 2.93223,-2.93222 1.20395,-0.64727 2.66682,-0.97092 4.38863,-0.97094 0.24595,2e-5 0.51781,0.0194 0.81558,0.0583 0.29774,0.0259 0.62786,0.0712 0.99036,0.13593 l 0.0194,3.67014" />
+        <path
+           id="path3087"
+           style=""
+           d="m 673.0823,896.67322 c -2.88693,10e-6 -4.88705,0.33013 -6.00038,0.99036 -1.11335,0.66024 -1.67002,1.78653 -1.67001,3.37885 -1e-5,1.2687 0.41426,2.27847 1.2428,3.02932 0.84147,0.73791 1.9807,1.10687 3.41769,1.10687 1.9807,0 3.56656,-0.69907 4.75759,-2.09722 1.20394,-1.41109 1.80592,-3.28176 1.80594,-5.61201 l 0,-0.79617 -3.55363,0 m 7.12667,-1.47582 0,12.40856 -3.57304,0 0,-3.30118 c -0.81561,1.32047 -1.83185,2.29788 -3.04874,2.93222 -1.21692,0.6214 -2.70569,0.9321 -4.46631,0.9321 -2.22668,0 -4.00026,-0.6214 -5.32072,-1.8642 -1.30753,-1.25574 -1.9613,-2.93222 -1.96129,-5.02944 -1e-5,-2.44675 0.81558,-4.29153 2.44675,-5.53434 1.64411,-1.24278 4.09087,-1.86418 7.34028,-1.86419 l 5.01003,0 0,-0.34954 c -2e-5,-1.6441 -0.54375,-2.91279 -1.63118,-3.80607 -1.07451,-0.90619 -2.58917,-1.35929 -4.54398,-1.35931 -1.2428,2e-5 -2.45324,0.1489 -3.6313,0.44663 -1.17807,0.29777 -2.31083,0.7444 -3.39827,1.33989 l 0,-3.30118 c 1.30752,-0.50486 2.57621,-0.88029 3.80607,-1.12628 1.22984,-0.2589 2.42733,-0.38836 3.59246,-0.38838 3.14582,2e-5 5.49548,0.81561 7.04899,2.44676 1.55348,1.63119 2.33023,4.10384 2.33025,7.41795" />
+        <path
+           id="path3089"
+           style=""
+           d="m 691.12227,879.68185 0,6.17515 7.3597,0 0,2.77687 -7.3597,0 0,11.80658 c 0,1.77358 0.23949,2.91281 0.7185,3.4177 0.49193,0.50488 1.48228,0.75733 2.97106,0.75732 l 3.67014,0 0,2.99049 -3.67014,0 c -2.75747,0 -4.6605,-0.51136 -5.7091,-1.53408 -1.04862,-1.03566 -1.57292,-2.9128 -1.57292,-5.63143 l 0,-11.80658 -2.62152,0 0,-2.77687 2.62152,0 0,-6.17515 3.59246,0" />
+        <path
+           id="path3091"
+           style=""
+           d="m 702.83178,899.02289 0,-13.16589 3.57305,0 0,13.02995 c -10e-6,2.05839 0.40131,3.60542 1.20396,4.64108 0.80263,1.02272 2.00659,1.53408 3.61188,1.53408 1.92891,0 3.45004,-0.61493 4.5634,-1.84478 1.12626,-1.22985 1.68941,-2.90633 1.68942,-5.02945 l 0,-12.33088 3.57305,0 0,21.74896 -3.57305,0 0,-3.34002 c -0.86738,1.32047 -1.87715,2.30435 -3.02932,2.95164 -1.13924,0.63435 -2.46618,0.95152 -3.98083,0.95152 -2.49855,0 -4.39511,-0.77675 -5.68969,-2.33025 -1.29458,-1.55349 -1.94187,-3.82548 -1.94187,-6.81596 m 8.99087,-13.6902 0,0" />
+        <path
+           id="path3093"
+           style=""
+           d="m 728.44506,885.857 3.57305,0 0,21.74896 -3.57305,0 0,-21.74896 m 0,-8.46656 3.57305,0 0,4.52456 -3.57305,0 0,-4.52456" />
+        <path
+           id="path3095"
+           style=""
+           d="m 743.00911,879.68185 0,6.17515 7.3597,0 0,2.77687 -7.3597,0 0,11.80658 c 0,1.77358 0.23949,2.91281 0.7185,3.4177 0.49193,0.50488 1.48228,0.75733 2.97106,0.75732 l 3.67014,0 0,2.99049 -3.67014,0 c -2.75747,0 -4.6605,-0.51136 -5.7091,-1.53408 -1.04862,-1.03566 -1.57292,-2.9128 -1.57292,-5.63143 l 0,-11.80658 -2.62152,0 0,-2.77687 2.62152,0 0,-6.17515 3.59246,0" />
+        <path
+           id="path3097"
+           style=""
+           d="m 763.51524,888.36201 c -1.91599,2e-5 -3.43065,0.75088 -4.54398,2.25257 -1.11334,1.48879 -1.67001,3.53422 -1.67001,6.13632 0,2.60211 0.55019,4.65402 1.65059,6.15573 1.11333,1.48877 2.63446,2.23315 4.5634,2.23315 1.90302,0 3.41121,-0.75085 4.52456,-2.25257 1.11332,-1.50171 1.66999,-3.54714 1.67001,-6.13631 -2e-5,-2.57621 -0.55669,-4.61517 -1.67001,-6.1169 -1.11335,-1.51464 -2.62154,-2.27197 -4.52456,-2.27199 m 0,-3.02932 c 3.10698,2e-5 5.54726,1.0098 7.32086,3.02932 1.77355,2.01956 2.66034,4.81586 2.66036,8.38889 -2e-5,3.5601 -0.88681,6.35639 -2.66036,8.38888 -1.7736,2.01955 -4.21388,3.02932 -7.32086,3.02932 -3.11995,0 -5.5667,-1.00977 -7.34027,-3.02932 -1.76064,-2.03249 -2.64095,-4.82878 -2.64095,-8.38888 0,-3.57303 0.88031,-6.36933 2.64095,-8.38889 1.77357,-2.01952 4.22032,-3.0293 7.34027,-3.02932" />
+        <path
+           id="path3099"
+           style=""
+           d="m 795.51732,904.34361 0,11.53472 -3.59247,0 0,-30.02133 3.59247,0 0,3.30118 c 0.75085,-1.29456 1.69589,-2.25255 2.83513,-2.87397 1.15216,-0.63432 2.52442,-0.9515 4.11677,-0.95152 2.64092,2e-5 4.78345,1.04863 6.42759,3.14583 1.65704,2.09724 2.48557,4.8547 2.4856,8.27238 -3e-5,3.4177 -0.82856,6.17515 -2.4856,8.27237 -1.64414,2.09722 -3.78667,3.14583 -6.42759,3.14583 -1.59235,0 -2.96461,-0.3107 -4.11677,-0.9321 -1.13924,-0.63434 -2.08428,-1.5988 -2.83513,-2.89339 m 12.15611,-7.59271 c -2e-5,-2.62799 -0.54374,-4.68637 -1.63117,-6.17516 -1.07452,-1.50169 -2.55681,-2.25255 -4.44689,-2.25257 -1.8901,2e-5 -3.37886,0.75088 -4.4663,2.25257 -1.07451,1.48879 -1.61176,3.54717 -1.61175,6.17516 -1e-5,2.628 0.53724,4.69286 1.61175,6.19457 1.08744,1.48877 2.5762,2.23315 4.4663,2.23315 1.89008,0 3.37237,-0.74438 4.44689,-2.23315 1.08743,-1.50171 1.63115,-3.56657 1.63117,-6.19457" />
+        <path
+           id="path3101"
+           style=""
+           d="m 827.18923,896.67322 c -2.88692,10e-6 -4.88705,0.33013 -6.00038,0.99036 -1.11334,0.66024 -1.67001,1.78653 -1.67001,3.37885 0,1.2687 0.41426,2.27847 1.2428,3.02932 0.84147,0.73791 1.9807,1.10687 3.41769,1.10687 1.9807,0 3.56656,-0.69907 4.75759,-2.09722 1.20394,-1.41109 1.80592,-3.28176 1.80594,-5.61201 l 0,-0.79617 -3.55363,0 m 7.12667,-1.47582 0,12.40856 -3.57304,0 0,-3.30118 c -0.8156,1.32047 -1.83185,2.29788 -3.04874,2.93222 -1.21692,0.6214 -2.70568,0.9321 -4.4663,0.9321 -2.22669,0 -4.00026,-0.6214 -5.32073,-1.8642 -1.30753,-1.25574 -1.96129,-2.93222 -1.96129,-5.02944 0,-2.44675 0.81558,-4.29153 2.44676,-5.53434 1.64411,-1.24278 4.09086,-1.86418 7.34027,-1.86419 l 5.01003,0 0,-0.34954 c -2e-5,-1.6441 -0.54374,-2.91279 -1.63117,-3.80607 -1.07452,-0.90619 -2.58918,-1.35929 -4.54398,-1.35931 -1.24281,2e-5 -2.45324,0.1489 -3.6313,0.44663 -1.17808,0.29777 -2.31083,0.7444 -3.39828,1.33989 l 0,-3.30118 c 1.30752,-0.50486 2.57621,-0.88029 3.80607,-1.12628 1.22984,-0.2589 2.42733,-0.38836 3.59246,-0.38838 3.14582,2e-5 5.49548,0.81561 7.049,2.44676 1.55347,1.63119 2.33022,4.10384 2.33024,7.41795" />
+        <path
+           id="path3103"
+           style=""
+           d="m 854.29775,889.19702 c -0.40134,-0.23301 -0.8415,-0.40131 -1.32048,-0.50489 -0.46606,-0.11649 -0.98389,-0.17475 -1.55349,-0.17477 -2.01956,2e-5 -3.57306,0.66026 -4.66049,1.98071 -1.07451,1.30754 -1.61176,3.19116 -1.61176,5.65085 l 0,11.45704 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.75085,-1.32045 1.72826,-2.29786 2.93223,-2.93222 1.20395,-0.64727 2.66682,-0.97092 4.38863,-0.97094 0.24595,2e-5 0.51782,0.0194 0.81558,0.0583 0.29774,0.0259 0.62786,0.0712 0.99036,0.13593 l 0.0194,3.67014" />
+        <path
+           id="path3105"
+           style=""
+           d="m 867.96853,896.67322 c -2.88693,10e-6 -4.88705,0.33013 -6.00038,0.99036 -1.11335,0.66024 -1.67002,1.78653 -1.67001,3.37885 -10e-6,1.2687 0.41426,2.27847 1.2428,3.02932 0.84147,0.73791 1.9807,1.10687 3.41769,1.10687 1.9807,0 3.56656,-0.69907 4.75759,-2.09722 1.20394,-1.41109 1.80592,-3.28176 1.80594,-5.61201 l 0,-0.79617 -3.55363,0 m 7.12667,-1.47582 0,12.40856 -3.57304,0 0,-3.30118 c -0.81561,1.32047 -1.83185,2.29788 -3.04874,2.93222 -1.21692,0.6214 -2.70569,0.9321 -4.46631,0.9321 -2.22668,0 -4.00026,-0.6214 -5.32072,-1.8642 -1.30753,-1.25574 -1.9613,-2.93222 -1.96129,-5.02944 -10e-6,-2.44675 0.81558,-4.29153 2.44675,-5.53434 1.64411,-1.24278 4.09087,-1.86418 7.34028,-1.86419 l 5.01003,0 0,-0.34954 c -2e-5,-1.6441 -0.54374,-2.91279 -1.63118,-3.80607 -1.07451,-0.90619 -2.58917,-1.35929 -4.54398,-1.35931 -1.2428,2e-5 -2.45323,0.1489 -3.63129,0.44663 -1.17808,0.29777 -2.31084,0.7444 -3.39828,1.33989 l 0,-3.30118 c 1.30752,-0.50486 2.57621,-0.88029 3.80607,-1.12628 1.22984,-0.2589 2.42733,-0.38836 3.59246,-0.38838 3.14582,2e-5 5.49548,0.81561 7.04899,2.44676 1.55348,1.63119 2.33023,4.10384 2.33025,7.41795" />
+        <path
+           id="path3107"
+           style=""
+           d="m 912.06843,890.03202 c 0.89324,-1.60526 1.96127,-2.7898 3.20409,-3.55362 1.24277,-0.76379 2.70564,-1.14569 4.38863,-1.14571 2.26548,2e-5 4.01316,0.79619 5.24305,2.3885 1.22982,1.57941 1.84474,3.83198 1.84478,6.75772 l 0,13.12705 -3.59247,0 0,-13.01054 c -3e-5,-2.08426 -0.36898,-3.63128 -1.10686,-4.64107 -0.73794,-1.00976 -1.86423,-1.51465 -3.37886,-1.51466 -1.85128,10e-6 -3.31415,0.61494 -4.38863,1.84477 -1.07452,1.22987 -1.61177,2.90635 -1.61175,5.02945 l 0,12.29205 -3.59246,0 0,-13.01054 c -2e-5,-2.09721 -0.36898,-3.64423 -1.10687,-4.64107 -0.73793,-1.00976 -1.87716,-1.51465 -3.41769,-1.51466 -1.82538,10e-6 -3.2753,0.62141 -4.3498,1.86419 -1.07451,1.22987 -1.61176,2.89988 -1.61175,5.01003 l 0,12.29205 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.81558,-1.3334 1.79299,-2.31728 2.93223,-2.95164 1.13922,-0.63432 2.49205,-0.9515 4.05851,-0.95152 1.57937,2e-5 2.91926,0.40134 4.01967,1.20396 1.11332,0.80266 1.93538,1.96778 2.46618,3.49537" />
+        <path
+           id="path3109"
+           style=""
+           d="m 933.52612,899.02289 0,-13.16589 3.57304,0 0,13.02995 c 0,2.05839 0.40132,3.60542 1.20396,4.64108 0.80263,1.02272 2.00659,1.53408 3.61188,1.53408 1.92892,0 3.45005,-0.61493 4.5634,-1.84478 1.12627,-1.22985 1.68941,-2.90633 1.68943,-5.02945 l 0,-12.33088 3.57304,0 0,21.74896 -3.57304,0 0,-3.34002 c -0.86739,1.32047 -1.87716,2.30435 -3.02932,2.95164 -1.13924,0.63435 -2.46619,0.95152 -3.98084,0.95152 -2.49855,0 -4.39511,-0.77675 -5.68968,-2.33025 -1.29458,-1.55349 -1.94187,-3.82548 -1.94187,-6.81596 m 8.99086,-13.6902 0,0" />
+        <path
+           id="path3111"
+           style=""
+           d="m 959.1394,885.857 3.57304,0 0,22.13733 c -10e-6,2.7704 -0.53078,4.777 -1.59233,6.0198 -1.04862,1.24279 -2.74452,1.86419 -5.08771,1.8642 l -1.35931,0 0,-3.02932 0.95152,0 c 1.35931,-10e-6 2.28493,-0.31718 2.77688,-0.95152 0.49193,-0.6214 0.7379,-1.92245 0.73791,-3.90316 l 0,-22.13733 m 0,-8.46656 3.57304,0 0,4.52456 -3.57304,0 0,-4.52456" />
+        <path
+           id="path3113"
+           style=""
+           d="m 988.77231,895.83822 0,1.74768 -16.42823,0 c 0.15534,2.45971 0.89325,4.33685 2.21373,5.63143 1.33341,1.28164 3.18466,1.92245 5.55376,1.92245 1.37224,0 2.69918,-0.16829 3.98083,-0.50489 1.29456,-0.33658 2.5762,-0.84147 3.84491,-1.51466 l 0,3.37886 c -1.28166,0.54372 -2.59566,0.95799 -3.942,1.2428 -1.34638,0.28481 -2.71216,0.42721 -4.09735,0.42721 -3.46949,0 -6.22047,-1.00977 -8.25295,-3.02932 -2.01955,-2.01954 -3.02933,-4.7511 -3.02932,-8.1947 -10e-6,-3.56008 0.95798,-6.38226 2.87397,-8.46656 1.92891,-2.0972 4.52455,-3.14581 7.7869,-3.14583 2.92574,2e-5 5.23656,0.94507 6.93248,2.83513 1.70883,1.87716 2.56325,4.43396 2.56327,7.6704 m -3.57304,-1.04861 c -0.0259,-1.95481 -0.57611,-3.51478 -1.65059,-4.67991 -1.06157,-1.16511 -2.47267,-1.74767 -4.23328,-1.74769 -1.99367,2e-5 -3.59247,0.56316 -4.79642,1.68943 -1.19103,1.1263 -1.87715,2.71216 -2.05839,4.75758 l 12.73868,-0.0194" />
+        <path
+           id="path3115"
+           style=""
+           d="m 1007.2395,889.19702 c -0.4013,-0.23301 -0.8415,-0.40131 -1.3205,-0.50489 -0.466,-0.11649 -0.9838,-0.17475 -1.5535,-0.17477 -2.0195,2e-5 -3.573,0.66026 -4.66044,1.98071 -1.07451,1.30754 -1.61176,3.19116 -1.61176,5.65085 l 0,11.45704 -3.59246,0 0,-21.74896 3.59246,0 0,3.37885 c 0.75085,-1.32045 1.72826,-2.29786 2.9322,-2.93222 1.204,-0.64727 2.6669,-0.97092 4.3887,-0.97094 0.2459,2e-5 0.5178,0.0194 0.8155,0.0583 0.2978,0.0259 0.6279,0.0712 0.9904,0.13593 l 0.019,3.67014" />
+        <path
+           id="path3117"
+           style=""
+           d="m 1028.7749,895.83822 0,1.74768 -16.4283,0 c 0.1554,2.45971 0.8933,4.33685 2.2138,5.63143 1.3334,1.28164 3.1846,1.92245 5.5537,1.92245 1.3723,0 2.6992,-0.16829 3.9809,-0.50489 1.2945,-0.33658 2.5762,-0.84147 3.8449,-1.51466 l 0,3.37886 c -1.2817,0.54372 -2.5957,0.95799 -3.942,1.2428 -1.3464,0.28481 -2.7122,0.42721 -4.0974,0.42721 -3.4695,0 -6.2204,-1.00977 -8.2529,-3.02932 -2.0196,-2.01954 -3.0294,-4.7511 -3.0294,-8.1947 0,-3.56008 0.958,-6.38226 2.874,-8.46656 1.9289,-2.0972 4.5246,-3.14581 7.7869,-3.14583 2.9258,2e-5 5.2366,0.94507 6.9325,2.83513 1.7088,1.87716 2.5633,4.43396 2.5633,7.6704 m -3.5731,-1.04861 c -0.026,-1.95481 -0.5761,-3.51478 -1.6506,-4.67991 -1.0615,-1.16511 -2.4726,-1.74767 -4.2332,-1.74769 -1.9937,2e-5 -3.5925,0.56316 -4.7965,1.68943 -1.191,1.1263 -1.8771,2.71216 -2.0583,4.75758 l 12.7386,-0.0194" />
+        <path
+           id="path3119"
+           style=""
+           d="m 1048.5043,886.49781 0,3.37886 c -1.0098,-0.51781 -2.0584,-0.90619 -3.1458,-1.16512 -1.0875,-0.2589 -2.2138,-0.38836 -3.3789,-0.38838 -1.7736,2e-5 -3.107,0.27188 -4.0002,0.81559 -0.8804,0.54374 -1.3205,1.35933 -1.3205,2.44676 0,0.82854 0.3171,1.48231 0.9515,1.96129 0.6343,0.46606 1.9095,0.91269 3.8255,1.33989 l 1.2234,0.27186 c 2.5373,0.54374 4.3368,1.31401 5.3984,2.31083 1.0745,0.98389 1.6117,2.36262 1.6117,4.13618 0,2.01955 -0.8026,3.61836 -2.4079,4.79643 -1.5923,1.17807 -3.7867,1.7671 -6.5829,1.7671 -1.1652,0 -2.3821,-0.11651 -3.6508,-0.34954 -1.2557,-0.22008 -2.5827,-0.55667 -3.9808,-1.00977 l 0,-3.68956 c 1.3205,0.68614 2.6215,1.20397 3.9032,1.5535 1.2816,0.33659 2.5503,0.50489 3.806,0.50489 1.683,0 2.9776,-0.28481 3.8838,-0.85443 0.9062,-0.58255 1.3593,-1.39814 1.3593,-2.44675 0,-0.97093 -0.3301,-1.71532 -0.9904,-2.23316 -0.6473,-0.51782 -2.0778,-1.01623 -4.2915,-1.49524 l -1.2428,-0.29128 c -2.2137,-0.46604 -3.8125,-1.17806 -4.7964,-2.13606 -0.9839,-0.97092 -1.4759,-2.29786 -1.4758,-3.98083 -10e-5,-2.04542 0.7249,-3.62481 2.1748,-4.73817 1.45,-1.11332 3.5084,-1.66999 6.1752,-1.67001 1.3205,2e-5 2.5633,0.0971 3.7284,0.29128 1.1651,0.19421 2.2396,0.48549 3.2235,0.87384" />
+        <path
+           id="path3121"
+           style=""
+           d="m 1057.6311,902.6736 3.942,0 0,4.93236 -3.942,0 0,-4.93236 m 0,-24.05978 3.942,0 0,12.71925 -0.3884,6.93249 -3.1458,0 -0.4078,-6.93249 0,-12.71925" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3395"
+       d="m 2363.9867,2338.4636 c -1.1392,-1.8433 0.4881,-3.0767 2.5814,-1.9565 2.0226,1.0825 3.9186,0.549 3.9186,-1.1025 0,-0.5176 -1.3342,-0.941 -2.9648,-0.941 -3.3738,0 -5.0352,-2.2477 -5.0352,-6.8118 0,-3.9709 2.0097,-5.371 7.1761,-4.9993 l 4.3239,0.3111 0.3027,5.845 c 0.3916,7.5605 -1.4284,10.655 -6.2667,10.655 -1.8799,0 -3.6961,-0.45 -4.036,-1 z m 7.0354,-9.1115 c 0.8138,-2.564 -1.6772,-5.4318 -3.9579,-4.5566 -1.565,0.6005 -2.1905,4.7218 -0.9108,6.0014 1.4092,1.4093 4.2284,0.5727 4.8687,-1.4448 z m 269.0716,8.5297 c -0.896,-2.3349 -0.7084,-12.71 0.2574,-14.2331 0.5378,-0.848 2.385,-1.203 5.2029,-1 3.5609,0.2567 4.6523,0.8235 5.9009,3.0649 1.3755,2.4695 1.3756,3.0305 6e-4,5.5 -1.0883,1.9547 -2.4612,2.8406 -4.7468,3.0631 -2.443,0.2379 -3.3625,0.8986 -3.8272,2.75 -0.7006,2.7916 -1.9032,3.1605 -2.7878,0.8551 z m 7.2231,-6.292 c 2.1342,-1.353 1.0757,-6.6262 -1.3301,-6.6262 -2.07,0 -3.1967,3.242 -2.1105,6.0727 0.6225,1.6222 1.5256,1.7675 3.4406,0.5535 z m -452.234,0.7075 c -0.8779,-1.2533 -1.5961,-3.2709 -1.5961,-4.4836 0,-2.7848 4.3775,-6.3256 6.9791,-5.6453 4.9982,1.3071 5.4014,6.7952 0.4992,6.7952 -1.9807,0 -2.9783,0.5024 -2.9783,1.5 0,1.0249 0.8919,1.4375 2.8158,1.3027 3.9107,-0.2739 2.9142,2.1093 -1.0468,2.5035 -2.285,0.2274 -3.4877,-0.2803 -4.6729,-1.9725 z m 5.8612,-5.7646 c 0.7395,-1.1966 -1.1416,-2.3822 -2.4736,-1.559 -1.1184,0.6912 -0.3842,2.4899 1.0163,2.4899 0.4851,0 1.1409,-0.4189 1.4573,-0.9309 z m 10.7543,6.6809 c -1.5872,-1.92 -4.5328,-9.7621 -3.9033,-10.3916 0.9265,-0.9266 2.757,0.6831 3.7515,3.2989 1.06,2.788 2.6283,2.2933 3.9771,-1.2544 0.9938,-2.6138 2.9631,-3.2689 2.9631,-0.9858 0,2.2213 -3.8257,10.5829 -4.842,10.5829 -0.5022,0 -1.3781,-0.5625 -1.9464,-1.25 z m 11.4138,-0.2674 c -2.0414,-2.0415 -2.1161,-7.8305 -0.1223,-9.4852 3.4899,-2.8963 9.8624,-0.5551 9.2952,3.4151 -0.2263,1.5833 -1.0185,2.0875 -3.2804,2.0875 -2.1048,0 -3.0882,0.5442 -3.3425,1.8498 -0.3118,1.5998 0.073,1.7545 2.8505,1.1445 2.4708,-0.5427 3.1084,-0.3927 2.7656,0.6502 -0.6637,2.0192 -6.2535,2.2506 -8.1661,0.3381 z m 5.3746,-6.9826 c 0,-0.825 -0.675,-1.5 -1.5,-1.5 -0.825,0 -1.5,0.675 -1.5,1.5 0,0.825 0.675,1.5 1.5,1.5 0.825,0 1.5,-0.675 1.5,-1.5 z m 7.607,6.9182 c -0.3339,-0.87 -0.607,-2.8582 -0.607,-4.4182 0,-5.0465 0.8716,-6 5.4845,-6 5.32,0 6.728,1.5971 6.3266,7.1761 -0.3236,4.4975 -2.1029,5.6056 -2.5911,1.6135 -0.6169,-5.0456 -1.3268,-6.7896 -2.7638,-6.7896 -1.6881,0 -3.4562,3.8701 -3.4562,7.5651 0,2.7395 -1.4683,3.2629 -2.393,0.8531 z m 16.0833,0.8318 c -0.2353,-0.4125 -0.7266,-3.4952 -1.0918,-6.8504 -0.5062,-4.6512 -0.3299,-6.3776 0.7423,-7.2675 1.1163,-0.9264 1.7237,-0.6826 2.9456,1.1823 0.9982,1.5234 1.2238,2.848 0.6418,3.7675 -1.2123,1.9153 -1.1664,6.6528 0.072,7.4181 0.55,0.3399 1,1.0415 1,1.559 0,1.1138 -3.6901,1.2773 -4.3097,0.191 z m 7.667,-1.8275 c -2.2015,-3.3598 -0.8802,-7.4053 3.0307,-9.2797 2.5321,-1.2136 3.1285,-1.1485 5.4768,0.598 3.2137,2.3901 3.8216,5.5627 1.6893,8.817 -2.2894,3.494 -7.8673,3.42 -10.1968,-0.1353 z m 7.8112,-1.8929 c 2.0074,-4.4057 -2.9044,-7.76 -5.1685,-3.5296 -0.7605,1.421 -0.7605,2.579 0,4 1.4598,2.7276 3.8088,2.5139 5.1685,-0.4704 z m 18.3275,3.2204 c -0.2427,-0.6875 -0.566,-3.725 -0.7186,-6.75 -0.2321,-4.6019 -0.6448,-5.6612 -2.5274,-6.4871 -3.8689,-1.6974 -2.4897,-2.5129 4.25,-2.5129 6.7397,0 8.1189,0.8155 4.25,2.5129 -1.9645,0.8619 -2.2875,1.8436 -2.5457,7.7371 -0.2674,6.1053 -1.5647,8.7398 -2.7083,5.5 z m 10.9235,-0.099 c -0.2848,-0.7421 -0.3832,-4.4546 -0.2186,-8.25 l 0.2991,-6.9008 5.75,-0.2999 c 6.3324,-0.3303 8.1525,1.4803 2,1.9895 -2.9799,0.2467 -3.75,0.7211 -3.75,2.3104 0,1.5893 0.7701,2.0637 3.75,2.3104 4.6233,0.3826 4.9946,2.1896 0.45,2.1896 -1.815,0 -3.8048,0.5048 -4.4219,1.1219 -1.7903,1.7903 -0.3113,3.8781 2.7471,3.8781 3.6274,0 6.1132,0.9671 5.41,2.1048 -0.9179,1.4852 -11.4239,1.0882 -12.0157,-0.454 z m 16.5805,-7.1508 0,-8.5 5,0 c 6.53,0 9,2.285 9,8.3257 0,5.9472 -2.9283,8.6743 -9.3144,8.6743 l -4.6856,0 0,-8.5 z m 10.1483,3.0737 c 2.1423,-4.7016 -1.4852,-10.5328 -5.5759,-8.9631 -1.123,0.4309 -1.5724,1.9542 -1.5724,5.3297 0,5.3849 0.4107,6.0597 3.6881,6.0597 1.5223,0 2.7456,-0.8578 3.4602,-2.4263 z m 15.5067,3.5976 c -2.9563,-3.2667 -1.8936,-8.7499 1.9814,-10.2231 7.0462,-2.679 12.2188,7.11 5.9639,11.2865 -2.0258,1.3526 -6.2733,0.7841 -7.9453,-1.0634 z m 6.145,-1.3713 c 1.6903,-1.6903 1.4933,-5.7502 -0.3127,-6.4433 -1.8917,-0.7258 -4.4873,1.3367 -4.4873,3.5657 0,1.6348 1.7972,4.0776 3,4.0776 0.33,0 1.14,-0.54 1.8,-1.2 z m 7.7718,1.5264 c -0.3533,-0.9205 -0.3503,-3.6205 0.01,-6 0.6302,-4.2028 0.7526,-4.3249 4.2852,-4.2739 3.5966,0.052 3.6118,0.07 1.3864,1.6219 -1.4227,0.9925 -2.25,2.5977 -2.25,4.3658 0,5.24 -2.0694,7.8273 -3.4282,4.2862 z m 24.7419,0.049 c -0.8396,-2.188 0.8488,-4.7053 3.59,-5.3524 2.9811,-0.7037 2.6148,-2.571 -0.458,-2.3345 -3.1199,0.2402 -3.1622,-1.4047 -0.072,-2.8126 4.7016,-2.1421 8.2267,1.9972 7.4546,8.7535 -0.3053,2.6711 -0.6606,2.889 -5.1053,3.1319 -3.6754,0.2009 -4.9228,-0.1188 -5.4091,-1.3859 z m 6.1863,-1.3751 c 1.0769,-1.7424 -0.5193,-3.2289 -2.078,-1.9352 -0.77,0.639 -1.1534,1.5608 -0.852,2.0485 0.7295,1.1803 2.1648,1.1248 2.93,-0.1133 z m 7.9055,1.6144 c -0.2924,-0.7621 -0.3908,-3.3442 -0.2186,-5.7381 0.3029,-4.2101 0.4402,-4.3729 4.1985,-4.9789 4.7087,-0.7593 7.6146,1.5384 7.6146,6.0208 0,6.9651 -2.5072,8.1463 -3.2527,1.5324 -0.6051,-5.369 -1.2536,-6.2493 -3.5453,-4.8134 -1.0518,0.6591 -1.8195,2.6512 -2.0095,5.2146 -0.3019,4.072 -1.7382,5.4957 -2.787,2.7626 z m 15.2015,-0.1962 c -1.3593,-3.5422 0.075,-12.1196 1.7368,-10.3892 0.4558,0.4745 1.0401,8.3981 0.7905,10.721 -0.1897,1.7656 -1.8038,1.5536 -2.5273,-0.3318 z m 5.8803,0.5613 c -0.3468,-0.5612 0.5296,-2.3993 1.9477,-4.0846 2.6164,-3.1095 2.6186,-4.8949 0.01,-4.8949 -0.7926,0 -1.441,-0.45 -1.441,-1 0,-0.55 2.025,-1 4.5,-1 5.0079,0 5.4946,0.9202 2.5,4.7271 -2.5954,3.2995 -2.5233,3.9247 0.5409,4.6938 1.3975,0.3508 2.2709,1.0745 1.941,1.6084 -0.7983,1.2916 -9.1913,1.2498 -9.9946,-0.05 z m 13.2255,0.3999 c -1.8209,-1.8208 -0.5392,-4.554 2.7872,-5.9438 4.0618,-1.6972 4.7383,-3.9055 0.9761,-3.1863 -3.3724,0.6447 -4.2379,-1.0092 -1.1436,-2.1856 5.4547,-2.0739 8.1785,0.8525 7.4912,8.0479 -0.3109,3.2544 -0.5032,3.4001 -4.8609,3.6845 -2.4955,0.1629 -4.858,-0.025 -5.25,-0.4167 z m 6.0968,-3.1294 c -0.4059,-2.1078 -2.1807,-1.9749 -2.6329,0.1972 -0.1887,0.906 0.3626,1.5528 1.3233,1.5528 1.03,0 1.5204,-0.6554 1.3096,-1.75 z m 8.7424,2.1591 c -1.8613,-1.8612 -2.0546,-7.7485 -0.302,-9.1982 0.6875,-0.5686 2.6,-1.1863 4.25,-1.3724 2.221,-0.2506 3.083,-0.9228 3.3195,-2.5885 0.1758,-1.2375 0.9815,-2.25 1.7905,-2.25 1.1986,0 1.4171,1.5185 1.1804,8.202 l -0.2904,8.2019 -4.198,0.2786 c -2.7682,0.1837 -4.7267,-0.2501 -5.75,-1.2734 z m 6.4372,-1.8961 c 1.7796,-2.1442 0.4452,-6.513 -1.9892,-6.513 -2.4344,0 -3.7688,4.3688 -1.9892,6.513 0.6787,0.8178 1.5739,1.487 1.9892,1.487 0.4153,0 1.3105,-0.6692 1.9892,-1.487 z m 8.5908,1.5754 c -2.3784,-2.6281 -1.6575,-6.9614 1.5552,-9.3491 2.3481,-1.745 2.9449,-1.81 5.4768,-0.5965 6.4064,3.0705 4.9391,11.8572 -1.9801,11.8572 -2.0007,0 -4.01,-0.7603 -5.0519,-1.9116 z m 6.8486,-1.6598 c 1.8591,-1.8591 1.875,-1.9928 0.5362,-4.4943 -2.2365,-4.179 -7.1177,-0.7601 -5.1333,3.5953 1.307,2.8685 2.4115,3.0845 4.5971,0.899 z m 15.2472,1.7657 c -3.4961,-3.8632 -1.3945,-10.1943 3.3841,-10.1943 2.2688,0 3.2188,-0.6028 3.9401,-2.5 1.9233,-5.0586 3.0867,-2.6652 2.7904,5.7405 l -0.2904,8.2406 -4.0742,0.2825 c -2.9527,0.2047 -4.5354,-0.2272 -5.75,-1.5693 z m 6.1242,-1.3943 c 1.6903,-1.6903 1.4933,-5.7502 -0.3127,-6.4433 -1.8917,-0.7258 -4.4873,1.3367 -4.4873,3.5657 0,1.6348 1.7972,4.0776 3,4.0776 0.33,0 1.14,-0.54 1.8,-1.2 z m 8.8989,1.4198 c -1.9254,-2.1276 -2.1902,-5.4333 -0.6637,-8.2855 1.2556,-2.3462 7.1152,-2.6629 8.9249,-0.4823 2.0802,2.5065 0.8307,5.048 -2.4818,5.048 -1.9807,0 -2.9783,0.5024 -2.9783,1.5 0,1.0536 0.8485,1.4096 2.8512,1.1963 1.9879,-0.2118 2.7216,0.091 2.423,1 -0.7004,2.1323 -6.1525,2.1482 -8.0753,0.023 z m 5.6039,-6.7061 c 0.1085,-0.5425 -0.5903,-1.138 -1.5528,-1.3233 -1.0946,-0.2108 -1.75,0.2796 -1.75,1.3096 0,1.7398 2.9553,1.752 3.3028,0.014 z m 15.2751,7.2997 c -1.1021,-3.5477 -1.4312,-11.0692 -0.582,-13.3025 0.5481,-1.4416 1.7483,-2.5109 2.8184,-2.5109 1.4811,0 1.8392,0.7078 1.744,3.4474 -0.066,1.896 -0.4434,3.771 -0.839,4.1666 -0.3956,0.3956 -0.7193,2.4178 -0.7193,4.4937 0,3.7366 -1.6353,6.2385 -2.4221,3.7057 z m 7.9788,-1.0359 c -2.0359,-2.9067 -1.9661,-5.0503 0.2537,-7.7917 2.1992,-2.7158 6.4911,-2.9279 9.2227,-0.4558 4.1295,3.7371 1.2144,10.47 -4.5331,10.47 -2.366,0 -3.8557,-0.6698 -4.9433,-2.2225 z m 7.6118,-2.2479 c 1.9844,-4.3554 -2.8968,-7.7743 -5.1333,-3.5953 -1.3388,2.5015 -1.3229,2.6352 0.5362,4.4943 2.1856,2.1855 3.2901,1.9695 4.5971,-0.899 z m 7.471,3.7766 c -0.3517,-0.3518 -0.6395,-3.0395 -0.6395,-5.9729 l 0,-5.3333 3.5,0 c 3.9457,0 4.448,0.9269 1.5,2.7679 -1.369,0.855 -2,2.332 -2,4.6816 0,3.3579 -1.0856,5.1316 -2.3605,3.8567 z m 8.8059,-1.6678 c -0.326,-1.2989 -0.4471,-3.8864 -0.2691,-5.75 l 0.3237,-3.3884 9,0 9,0 0,5.25 c 0,6.3396 -1.8731,7.5117 -2.3102,1.4455 -0.5521,-7.6622 -5.1434,-6.6527 -5.1745,1.1378 -0.021,5.3688 -2.3732,4.2683 -3.0153,-1.411 -0.5574,-4.9299 -3.2877,-6.3184 -3.78,-1.9223 -0.7963,7.1114 -2.5982,9.3256 -3.7746,4.6384 z m 22.1806,0.8295 c -1.0952,-2.8542 -0.7054,-3.5368 2.874,-5.0323 4.0618,-1.6972 4.7383,-3.9055 0.9761,-3.1863 -3.3724,0.6447 -4.2379,-1.0092 -1.1436,-2.1856 5.4547,-2.0739 8.1785,0.8525 7.4912,8.0479 -0.3119,3.265 -0.492,3.3993 -4.9477,3.688 -3.5409,0.2295 -4.7705,-0.082 -5.25,-1.3317 z m 6.1836,-2.2179 c -0.4059,-2.1078 -2.1807,-1.9749 -2.6329,0.1972 -0.1887,0.906 0.3626,1.5528 1.3233,1.5528 1.03,0 1.5204,-0.6554 1.3096,-1.75 z m 14.8995,2.4342 c -0.7045,-1.8357 0.3838,-10.6842 1.314,-10.6842 1.0887,0 1.9769,2.6957 1.9769,6 0,4.9888 -2.0528,7.9107 -3.2909,4.6842 z m 6.6964,-0.07 c -0.2924,-0.7621 -0.3908,-3.3496 -0.2186,-5.75 l 0.3131,-4.3644 4.5876,-0.2982 c 5.6814,-0.3692 7.1458,1.1329 6.7235,6.8966 -0.3877,5.2919 -2.8111,6.6426 -2.8111,1.5667 0,-4.4593 -0.8511,-6.6651 -2.5718,-6.6651 -1.8413,0 -3.4282,3.2098 -3.4282,6.9343 0,3.1272 -1.6333,4.1849 -2.5945,1.6801 z m 15.6576,-0.4964 c -1.4452,-2.7004 -1.3415,-7.6428 0.1869,-8.9071 0.6875,-0.5686 2.6,-1.1862 4.25,-1.3724 2.2463,-0.2534 3.0822,-0.9182 3.3271,-2.6461 0.1799,-1.2692 0.8549,-2.1317 1.5,-1.9167 0.7655,0.2552 1.1729,3.1408 1.1729,8.3076 l 0,7.9167 -4.6869,0.3022 c -3.8374,0.2475 -4.8795,-0.058 -5.75,-1.6842 z m 6.9261,-1.605 c 1.7796,-2.1442 0.4452,-6.513 -1.9892,-6.513 -2.4344,0 -3.7688,4.3688 -1.9892,6.513 0.6787,0.8178 1.5739,1.487 1.9892,1.487 0.4153,0 1.3105,-0.6692 1.9892,-1.487 z m 8.6362,1.9696 c -1.9662,-1.9662 -2.1151,-6.4306 -0.2974,-8.9165 2.6771,-3.6611 10.082,-1.4355 9.4703,2.8464 -0.2263,1.5833 -1.0185,2.0875 -3.2804,2.0875 -2.1048,0 -3.0882,0.5442 -3.3425,1.8498 -0.3118,1.5998 0.073,1.7545 2.8506,1.1445 2.4707,-0.5426 3.1083,-0.3927 2.7655,0.6502 -0.6637,2.0192 -6.2535,2.2506 -8.1661,0.3381 z m 5.3746,-6.9826 c 0,-0.825 -0.675,-1.5 -1.5,-1.5 -0.825,0 -1.5,0.675 -1.5,1.5 0,0.825 0.675,1.5 1.5,1.5 0.825,0 1.5,-0.675 1.5,-1.5 z m 23.6254,6.9826 c -1.8997,-1.8998 -2.1586,-7.5494 -0.4254,-9.2826 1.6661,-1.6661 7.3028,-1.504 8.7601,0.252 2.0747,2.4998 0.8309,5.048 -2.4639,5.048 -2.0837,0 -3.0672,0.5478 -3.3208,1.8498 -0.3118,1.5998 0.073,1.7545 2.8505,1.1445 2.4708,-0.5427 3.1084,-0.3927 2.7656,0.6502 -0.6637,2.0192 -6.2535,2.2506 -8.1661,0.3381 z m 5.3746,-6.9826 c 0,-0.825 -0.675,-1.5 -1.5,-1.5 -0.825,0 -1.5,0.675 -1.5,1.5 0,0.825 0.675,1.5 1.5,1.5 0.825,0 1.5,-0.675 1.5,-1.5 z m 7.607,6.9182 c -0.3339,-0.87 -0.607,-2.8582 -0.607,-4.4182 0,-5.0465 0.8716,-6 5.4845,-6 5.32,0 6.728,1.5971 6.3266,7.1761 -0.3236,4.4975 -2.1029,5.6056 -2.5911,1.6135 -0.6169,-5.0456 -1.3268,-6.7896 -2.7638,-6.7896 -1.6881,0 -3.4562,3.8701 -3.4562,7.5651 0,2.7395 -1.4683,3.2629 -2.393,0.8531 z m 15.9928,0.039 c -3.5474,-3.5473 -1.261,-10.4569 3.4601,-10.4569 2.2688,0 3.2188,-0.6028 3.9401,-2.5 1.9233,-5.0586 3.0867,-2.6652 2.7904,5.7405 l -0.2904,8.2406 -4.1502,0.2878 c -2.7816,0.1929 -4.6778,-0.2397 -5.75,-1.312 z m 6.3894,-1.9439 c 1.7796,-2.1442 0.4452,-6.513 -1.9892,-6.513 -2.4344,0 -3.7688,4.3688 -1.9892,6.513 0.6787,0.8178 1.5739,1.487 1.9892,1.487 0.4153,0 1.3105,-0.6692 1.9892,-1.487 z m 8.6941,2.837 c -0.3758,-0.3758 -0.6833,-3.1208 -0.6833,-6.1 0,-6.9664 2.3587,-6.7837 2.8105,0.2177 0.2977,4.6128 -0.6835,7.326 -2.1272,5.8823 z m 6.9421,-0.8674 c -1.9662,-1.9663 -2.1151,-6.4306 -0.2974,-8.9165 2.6771,-3.6611 10.082,-1.4355 9.4703,2.8464 -0.2263,1.5833 -1.0185,2.0875 -3.2804,2.0875 -2.1048,0 -3.0882,0.5442 -3.3425,1.8498 -0.3118,1.5998 0.073,1.7544 2.8505,1.1445 2.4708,-0.5427 3.1084,-0.3928 2.7656,0.6502 -0.6637,2.0192 -6.2535,2.2506 -8.1661,0.3381 z m 5.3746,-6.9826 c 0,-0.825 -0.675,-1.5 -1.5,-1.5 -0.825,0 -1.5,0.675 -1.5,1.5 0,0.825 0.675,1.5 1.5,1.5 0.825,0 1.5,-0.675 1.5,-1.5 z m 7.607,6.9182 c -0.3339,-0.87 -0.607,-2.8582 -0.607,-4.4182 0,-5.1893 0.8226,-6 6.0879,-6 4.2888,0 4.9452,0.2836 5.4667,2.3616 0.8342,3.3235 0.1424,9.1798 -1.0546,8.928 -0.55,-0.1157 -1.126,-1.2407 -1.28,-2.5 -0.6174,-5.0496 -1.3274,-6.7896 -2.7704,-6.7896 -1.6637,0 -1.997,0.7141 -2.917,6.25 -0.6529,3.9283 -1.8965,4.85 -2.9256,2.1682 z m 15.9423,0.3318 c -1.3074,-4.2122 -1.4418,-11.5148 -0.2421,-13.1554 1.2515,-1.7115 1.4084,-1.6777 2.9206,0.6303 1.0409,1.5886 1.2851,2.9333 0.7004,3.857 -1.2123,1.9153 -1.1664,6.6528 0.072,7.4181 1.7013,1.0515 1.1037,2.5 -1.0314,2.5 -1.1172,0 -2.2059,-0.5625 -2.4193,-1.25 z m 8.1496,-0.5302 c -3.5137,-3.8826 -1.2323,-10.4698 3.626,-10.4698 3.4642,0 5.8492,2.0317 5.4734,4.6625 -0.2267,1.5865 -1.0183,2.0875 -3.2983,2.0875 -2,0 -3,0.5 -3,1.5 0,1.0536 0.8485,1.4096 2.8512,1.1963 1.9879,-0.2118 2.7216,0.091 2.423,1 -0.7004,2.1323 -6.1525,2.1482 -8.0753,0.023 z m 5.8055,-6.2269 c 0.3423,-0.5538 -0.1006,-1.2844 -0.9841,-1.6235 -1.9147,-0.7347 -2.9818,0.075 -2.0614,1.5641 0.8304,1.3436 2.2349,1.371 3.0455,0.059 z m -576.2606,3.3665 c -2.5859,-1.0914 0.047,-2.3594 4.8986,-2.3594 3.572,0 4.9054,0.3613 4.6132,1.25 -0.4193,1.275 -7.2356,2.07 -9.5118,1.1094 z m -0.7257,-6.3301 c -0.3299,-0.5339 0.4891,-1.244 1.8202,-1.5781 3.443,-0.8641 7.9353,-0.171 8.4179,1.2988 0.5004,1.524 -9.3035,1.7914 -10.2381,0.2793 z m 234.4819,-5.0293 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 -0.55,0 -1,-0.45 -1,-1 z m 182,0 c 0,-0.55 0.45,-1 1,-1 0.55,0 1,0.45 1,1 0,0.55 -0.45,1 -1,1 -0.55,0 -1,-0.45 -1,-1 z m 110.5,0 c 0.3399,-0.55 0.8165,-1 1.059,-1 0.2426,0 0.441,0.45 0.441,1 0,0.55 -0.4766,1 -1.059,1 -0.5825,0 -0.7809,-0.45 -0.441,-1 z m -231.53,-20.25 c -7.8098,-3.9454 -11.6426,-12.423 -10.6219,-23.4945 0.6384,-6.9257 1.6455,-9.404 5.5241,-13.5948 4.0814,-4.4099 7.9821,-6.0055 14.72,-6.0213 8.4854,-0.02 14.2471,3.3903 17.8111,10.5424 4.3204,8.67 3.3399,21.4046 -2.1504,27.9294 -5.7392,6.8207 -16.9077,8.8699 -25.2829,4.6388 z m 18.0486,-7.5333 c 3.1435,-3.1435 3.9,-4.7173 4.4733,-9.3055 1.8058,-14.453 -7.6266,-24.4532 -18.1706,-19.2643 -5.3751,2.6452 -7.6028,7.0697 -7.6497,15.1937 -0.063,10.9435 4.6752,17.1594 13.0809,17.1594 3.8538,0 5.0136,-0.5308 8.2661,-3.7833 z m 37.7405,8.3604 c -8.2695,-2.9514 -12.8806,-8.0805 -15.8544,-17.6356 -5.2018,-16.7132 0.2191,-33.4835 12.9778,-40.1488 4.5096,-2.3558 6.5404,-2.7893 12.9817,-2.7707 11.1467,0.032 18.1164,3.8756 22.5313,12.4253 1.8537,3.5898 0.653,5.5527 -3.3966,5.5527 -2.1319,0 -3.0435,-0.6934 -4.0241,-3.0609 -0.6973,-1.6835 -2.8544,-4.271 -4.7935,-5.75 -3.0101,-2.2959 -4.4982,-2.6891 -10.1765,-2.6891 -8.555,0 -14.0976,3.2991 -17.3424,10.3227 -3.2032,6.9334 -3.1074,21.7582 0.1837,28.4414 5.77,11.7174 22.1198,13.6957 30.5351,3.6947 1.4406,-1.7121 2.893,-4.2033 3.2275,-5.5359 0.4604,-1.8342 1.281,-2.4229 3.3773,-2.4229 4.7292,0 5.4785,2.1529 2.6699,7.671 -3.0033,5.9004 -5.7835,8.5827 -11.6559,11.245 -5.2957,2.4008 -15.4784,2.7177 -21.2409,0.6611 z m 52.7409,0.076 c -6.7793,-3.1177 -7,-3.8897 -7,-24.4904 0,-17.1382 0.1441,-18.6594 1.798,-18.9796 4.1549,-0.8043 4.702,1.2339 4.702,17.5165 l 0,15.4544 3.0483,3.0483 c 2.666,2.666 3.5536,2.9805 7.0776,2.5078 4.1049,-0.5505 7.1417,-2.593 9.2167,-6.1987 0.6625,-1.1511 1.3712,-8.4258 1.6574,-17.0112 l 0.5,-15 3,0 3,0 0,21.5 0,21.5 -2.75,0.3164 c -1.9237,0.2214 -2.75,-0.1365 -2.75,-1.191 0,-2.6334 -1.9156,-2.8217 -5.1652,-0.5078 -3.857,2.7465 -12.0307,3.5147 -16.3348,1.5353 z m 43.6981,-0.3257 c -8.6158,-4.2461 -8.2356,-17.1573 0.6402,-21.7421 1.4639,-0.7562 6.2352,-1.916 10.6028,-2.5774 11.2076,-1.6971 12.5589,-2.3409 12.5589,-5.9829 0,-1.6637 -0.8749,-3.8997 -1.9442,-4.969 -4.6102,-4.6102 -15.783,-3.4177 -18.5757,1.9826 -1.1659,2.2547 -2.2273,2.9616 -4.4468,2.9616 -3.9031,0 -4.5536,-1.4261 -2.3593,-5.173 2.6634,-4.5478 6.0835,-6.6829 12.6275,-7.8833 8.0995,-1.4856 15.7681,0.1619 19.0813,4.0994 2.7921,3.3182 3.4318,7.916 3.8552,27.7069 l 0.262,12.2501 -2.6933,-1e-4 c -1.612,0 -3.2905,-0.8527 -4.1809,-2.1239 l -1.4876,-2.1238 -5.2655,2.6238 c -6.1723,3.0758 -13.5961,3.4539 -18.6746,0.9511 z m 18.5651,-6.2005 c 2.947,-1.5772 5.2368,-6.202 5.2368,-10.577 0,-4.1092 0.2356,-4.0633 -10.5,-2.0464 -6.189,1.1628 -8.5094,2.0809 -10.25,4.0556 -2.7716,3.1443 -2.8103,4.4591 -0.228,7.7419 2.8829,3.665 9.7619,4.026 15.7412,0.8259 z m 60.5912,7.1813 c -1.18,-0.2309 -2.98,-1.3405 -4,-2.4659 -1.6166,-1.7837 -1.8952,-4.1549 -2.1724,-18.4947 l -0.3179,-16.4486 -2.6821,-1.0261 c -1.8647,-0.7134 -3.2111,-0.698 -4.4184,0.051 -0.9551,0.5922 -3.4301,1.091 -5.5,1.1085 -7.918,0.067 -9.4604,3.4785 -10.0632,22.2583 l -0.4756,14.8161 -3.1124,-0.3031 -3.1124,-0.3031 0,-20.891 c 0,-19.0967 0.1557,-20.9863 1.8126,-22 1.4786,-0.9046 2.1752,-0.6672 3.7793,1.2879 l 1.9665,2.3968 2.2208,-2.0088 c 2.9702,-2.6867 5.8997,-3.2807 10.4652,-2.1218 2.5172,0.6389 4.7128,0.6136 6.5247,-0.075 2.4101,-0.9163 2.7309,-1.5612 2.7309,-5.4905 0,-3.6187 0.4933,-4.8401 2.6349,-6.5247 1.4491,-1.1399 3.0036,-2.0726 3.4543,-2.0726 0.4507,0 0.9525,3.0375 1.1151,6.75 0.2843,6.4888 0.3993,6.762 2.9725,7.0594 1.4723,0.1701 3.2149,0.9576 3.8725,1.75 1.6156,1.9467 -0.2822,4.2163 -3.8725,4.6312 l -2.6768,0.3094 -0.2885,13 c -0.3562,16.0537 -0.099,17.2141 4.0512,18.2838 2.3121,0.5959 3.3338,1.4997 3.5748,3.1622 0.516,3.5593 -2.1245,4.6057 -8.4831,3.362 z m 25.1456,-1.198 c -8.039,-3.7103 -11.5,-10.1093 -11.5,-21.2622 0,-12.1635 5.1506,-19.5285 15.2381,-21.7891 9.6513,-2.1629 18.6204,1.8649 22.9739,10.3171 3.0155,5.8545 3.0033,17.4823 -0.025,23.7378 -4.6241,9.552 -16.6785,13.6156 -26.6871,8.9964 z m 15.3102,-6.1356 c 1.8206,-1.11 3.9581,-3.5689 4.75,-5.4642 1.839,-4.4013 1.8588,-14.8043 0.035,-18.3099 -4.8549,-9.3309 -15.7904,-10.3834 -21.8549,-2.1034 -2.8267,3.8594 -3.4658,13.7144 -1.2634,19.4813 3.0057,7.8702 11.2169,10.735 18.3334,6.3962 z m -363.1435,6.3589 c -0.3667,-0.3666 -0.6667,-13.8666 -0.6667,-30 l 0,-29.3333 18.0321,0 c 13.1125,0 18.9377,0.3784 21.3514,1.3869 4.917,2.0544 7.9421,6.9307 8.4045,13.5477 0.4888,6.9933 -2.1758,11.4261 -9.056,15.0654 -5.1746,2.7372 -5.7355,3.8922 -2.7847,5.735 1.9362,1.2092 16.0527,21.8037 16.0527,23.4192 0,0.4652 -1.9533,0.8458 -4.3407,0.8458 l -4.3408,0 -7.4092,-11.25 c -9.2245,-14.0062 -11.8254,-15.9431 -20.8679,-15.5409 l -6.5414,0.2909 -0.2466,11 c -0.3246,14.4765 -0.5957,15.5 -4.1058,15.5 -1.5478,0 -3.1143,-0.3 -3.4809,-0.6667 z m 33.8612,-34.528 c 7.6936,-3.5054 6.8337,-15.446 -1.2837,-17.8265 -2.0593,-0.6039 -8.4692,-0.9587 -14.2442,-0.7884 l -10.5,0.3096 -0.2862,9.75 -0.2862,9.75 11.9891,0 c 7.1655,0 13.0441,-0.4807 14.6112,-1.1947 z m 28.945,33.9847 c -0.2837,-0.7392 -0.3936,-10.5568 -0.2443,-21.817 l 0.2714,-20.473 3,0 3,0 0,21.5 0,21.5 -2.7557,0.317 c -1.6322,0.1877 -2.9659,-0.231 -3.2714,-1.027 z m -1.4729,-50.3298 c 0,-0.8469 0.9091,-3.3219 2.0203,-5.5 1.7591,-3.448 2.4628,-3.9602 5.441,-3.9602 1.8814,0 3.6648,0.395 3.9632,0.8778 0.2984,0.4828 -1.0457,2.9578 -2.9868,5.5 -2.506,3.282 -4.2409,4.6222 -5.9835,4.6222 -1.5431,0 -2.4542,-0.5717 -2.4542,-1.5398 z"
+       style="fill:#333333"
+       clip-path="url(#clipPath3421)" />
+  </g>
+  <script
+     id="sozi-script"
+     ns1:version="13.11-30213629">/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * Create or augment a namespace.
+ *
+ * &lt;p&gt;A typical use of this function is:&lt;/p&gt;
+ *
+ * &lt;pre&gt;
+ * namespace(this, &quot;a.b.c&quot;, function (exports, globals) {
+ *     exports.foo = function (x) {
+ *         ...
+ *     };
+ * });
+ * &lt;/pre&gt;
+ *
+ * &lt;p&gt;where &lt;code&gt;this&lt;/code&gt; is the global object.&lt;/p&gt;
+ *
+ * &lt;p&gt;In this example, function &lt;code&gt;foo&lt;/code&gt; is exported and can be
+ * called as &lt;code&gt;a.b.c.foo(someValue)&lt;/code&gt;.&lt;/p&gt;
+ *
+ * @memberOf _global_
+ * @param globals The global object
+ * @param {String} path The dot-separated path to the namespace
+ * @param {Function} body A function to execute in the context of the namespace
+ */
+function namespace(globals, path, body) {
+    &quot;use strict&quot;;
+    
+    // Start name lookup in the global object
+	var current = globals;
+	
+	// For each name in the given path
+	path.split(&quot;.&quot;).forEach(function (name) {
+	    // If the current path element does not exist
+	    // in the current namespace, create a new sub-namespace
+		if (typeof current[name] === &quot;undefined&quot;) {
+			current[name] = {};
+		}
+		
+		// Move to the namespace for the current path element
+		current = current[name];
+	});
+	
+	// Execute the given function in the last namespace
+	if (body) {
+	    body(current, globals);
+	}
+	
+	return current;
+}
+
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.events
+ * @namespace A simple event system for Sozi.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.events&quot;, function (exports) {
+    /** @lends sozi.events */
+
+    &quot;use strict&quot;;
+    
+    /**
+     * A registry of callback functions for each event type.
+     *
+     * &lt;p&gt;Call {@link sozi.events.listen} to add a new listener.&lt;/p&gt;
+     */
+    var listenerRegistry = {};
+
+    /**
+     * Adds a listener for a given event type.
+     *
+     * @memberOf sozi.events
+     * @name listen
+     * @function
+     * @param {String} key The identifier of the event type to listen
+     * @param {Function} handler The function to call when a corresponding event is fired
+     */
+    exports.listen = function (key, handler) {
+        if (!listenerRegistry.hasOwnProperty(key)) {
+            listenerRegistry[key] = [];
+        }
+        listenerRegistry[key].push(handler);
+    };
+    
+    /**
+     * Fire an event of a given type.
+     *
+     * &lt;p&gt;All event handlers added for the given event type are
+     * executed.&lt;/p&gt;
+     *
+     * &lt;p&gt;Additional arguments provided to this function are passed
+     * to the event handlers.&lt;/p&gt;
+     *
+     * @memberOf sozi.events
+     * @name fire
+     * @function
+     * @param {String} key The identifier of the event type to fire
+     */
+    exports.fire = function (key) {
+        var args = Array.prototype.slice.call(arguments, 1);
+        if (listenerRegistry.hasOwnProperty(key)) {
+            listenerRegistry[key].forEach(function (listener) {
+                listener.apply(null, args);
+            });
+        }
+    };
+});
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.proto
+ * @namespace Helpers for prototype inheritance.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.proto&quot;, function (exports) {
+    &quot;use strict&quot;;
+    
+    exports.Object = {
+        installConstructors: function () {
+            function InstanceConstructor() {}
+            InstanceConstructor.prototype = this;
+            
+            this.instance = function () {
+                var result = new InstanceConstructor();
+                result.construct.apply(result, arguments);
+                return result;
+            };
+            
+            this.subtype = function (anObject) {
+                var result = new InstanceConstructor();
+                result.augment(anObject);
+                result.installConstructors();
+                return result;
+            };
+        },
+        
+        construct: function () {},
+        
+        augment: function (anObject) {
+            for (var attr in anObject) {
+                if (anObject.hasOwnProperty(attr)) {
+                    this[attr] = anObject[attr];
+                }
+            }
+            return this;
+        },
+        
+        bind: function (aFunction) {
+            var self = this;
+            return function () {
+                return aFunction.apply(self, arguments);
+            }
+        }
+    };
+    
+    // Bootstrap the root object
+    exports.Object.installConstructors();
+});
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.actions
+ * @namespace Callback functions for DOM event handlers
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.actions&quot;, function (exports, window) {
+    /** @lends sozi.actions */
+    
+    &quot;use strict&quot;;
+    
+    // Module aliases
+    var player = namespace(window, &quot;sozi.player&quot;);
+    var display = namespace(window, &quot;sozi.display&quot;);
+    
+    // The global document object
+    var document = window.document;
+    
+    // Constants: mouse button numbers
+    var DRAG_BUTTON = 0;    // Left button
+    var TOC_BUTTON = 1;     // Middle button
+    
+    // Constants: increments for zooming and rotating,
+    // threshold for dragging
+    var SCALE_FACTOR = 1.05;
+    var ROTATE_STEP = 5;
+    var DRAG_THRESHOLD_PX = 5;
+    
+    /**
+     * The status of the current drag operation.
+     *
+     * @type Boolean
+     */
+    var mouseDragged = false;
+    
+    /**
+     * The X coordinate of the mouse on the latest &quot;down&quot; or &quot;drag&quot; event.
+     *
+     * @type Number
+     */
+    var mouseLastX = 0;
+
+    /**
+     * The Y coordinate of the mouse on the latest &quot;down&quot; or &quot;drag&quot; event.
+     *
+     * @type Number
+     */
+    var mouseLastY = 0;
+    
+    /**
+     * Zooms the display in the given direction.
+     *
+     * &lt;p&gt;Only the sign of &lt;code&gt;direction&lt;/code&gt; is used:&lt;/p&gt;
+     * &lt;ul&gt;
+     *  &lt;li&gt;zoom in when &lt;code&gt;direction &gt; 0&lt;/code&gt;&lt;/li&gt;
+     *  &lt;li&gt;zoom out when &lt;code&gt;direction &lt;= 0&lt;/code&gt;&lt;/li&gt;
+     * &lt;/ul&gt;
+     *
+     * &lt;p&gt;The scaling is centered around point (&lt;code&gt;x&lt;/code&gt;, &lt;code&gt;y&lt;/code&gt;).&lt;/p&gt;
+     *
+     * @param {Number} direction The direction of the scaling operation
+     * @param {Number} x The X coordinate of the scaling center
+     * @param {Number} y The Y coordinate of the scaling center
+     */
+    function zoom(direction, x, y) {
+        player.stop();
+        display.viewPorts[&quot;player&quot;].zoom(direction &gt; 0 ? SCALE_FACTOR : 1 / SCALE_FACTOR, x, y);
+    }
+    
+    /**
+     * Rotate the display in the given direction.
+     *
+     * &lt;p&gt;Only the sign of &lt;code&gt;direction&lt;/code&gt; is used:&lt;/p&gt;
+     * &lt;ul&gt;
+     *  &lt;li&gt;rotate anticlockwise when direction &gt; 0&lt;/li&gt;
+     *  &lt;li&gt;rotate clockwise when direction &lt;= 0&lt;/li&gt;
+     * &lt;/ul&gt;
+     *
+     * @param {Number} direction The direction of the rotation
+     */
+    function rotate(direction) {
+        player.stop();
+        display.viewPorts[&quot;player&quot;].rotate(direction &gt; 0 ? ROTATE_STEP : -ROTATE_STEP);
+    }
+    
+    /**
+     * Show/hide the frame list.
+     *
+     * &lt;p&gt;The presentation stops when the frame list is showed,
+     * and restarts when the frame list is hidden.&lt;/p&gt;
+     */
+    function toggleFrameList() {
+        if (sozi.framelist.isVisible()) {
+            sozi.framelist.hide();
+            player.restart();
+        } else {
+            player.stop();
+            sozi.framelist.show();
+        }
+    }
+
+    function isPlayerEvent(evt) {
+        return display.viewPorts[&quot;player&quot;].contains(evt.clientX, evt.clientY);
+    }
+    
+    /**
+     * Event handler: mouse down.
+     *
+     * &lt;p&gt;When the left button is pressed, we register the current coordinates
+     * in case the mouse will be dragged. Handler {@link sozi.actions-onMouseDrag} is set until
+     * the button is released ({@link sozi.actions-onMouseUp}).&lt;/p&gt;
+     *
+     * &lt;p&gt;When the middle button is pressed, the table of contents is shown or hidden.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onMouseDown(evt) {
+        if (!isPlayerEvent(evt)) {
+            return;
+        }
+        if (evt.button === DRAG_BUTTON) {
+            document.documentElement.addEventListener(&quot;mousemove&quot;, onMouseDrag, false);
+            mouseDragged = false;
+            mouseLastX = evt.clientX;
+            mouseLastY = evt.clientY;
+        } else if (evt.button === TOC_BUTTON) {
+            toggleFrameList();
+        }
+        evt.stopPropagation();
+        evt.preventDefault();
+    }
+
+    /**
+     * Event handler: mouse move.
+     *
+     * &lt;p&gt;If the left mouse button is down, then the mouse move is a drag action.
+     * This method computes the displacement since the button was pressed or
+     * since the last move, and updates the reference coordinates for the next move.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onMouseDrag(evt) {
+        if (!isPlayerEvent(evt)) {
+            return;
+        }
+        player.stop();
+        
+        // The drag action is confirmed when one of the mouse coordinates
+        // has moved past the threshold
+        if (!mouseDragged &amp;&amp; (Math.abs(evt.clientX - mouseLastX) &gt; DRAG_THRESHOLD_PX ||
+                              Math.abs(evt.clientY - mouseLastY) &gt; DRAG_THRESHOLD_PX)) {
+            mouseDragged = true;
+        }
+        
+        if (mouseDragged) {
+            sozi.events.fire(&quot;sozi.player.cleanup&quot;);
+            display.viewPorts[&quot;player&quot;].drag(evt.clientX - mouseLastX, evt.clientY - mouseLastY);
+            mouseLastX = evt.clientX;
+            mouseLastY = evt.clientY;
+        }
+        
+        evt.stopPropagation();
+    }
+
+    /**
+     * Event handler: mouse up.
+     *
+     * &lt;p&gt;Releasing the left button removes the {@link sozi.actions-onMouseDrag} handler.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onMouseUp(evt) {
+        if (!isPlayerEvent(evt)) {
+            return;
+        }
+        if (evt.button === DRAG_BUTTON) {
+            document.documentElement.removeEventListener(&quot;mousemove&quot;, onMouseDrag, false);
+        }
+        evt.stopPropagation();
+        evt.preventDefault();
+    }
+
+    /**
+     * Event handler: context menu (i.e right click).
+     *
+     * &lt;p&gt;Right click goes one frame back.&lt;/p&gt;
+     *
+     * &lt;p&gt;There is no &quot;click&quot; event for the right mouse button and the menu
+     * can't be disabled in {@link sozi.actions-onMouseDown}.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onContextMenu(evt) {
+        if (!isPlayerEvent(evt)) {
+            return;
+        }
+        player.moveToPrevious();
+        evt.stopPropagation();
+        evt.preventDefault();
+    }
+
+    /**
+     * Event handler: mouse click.
+     *
+     * &lt;p&gt;Left-click moves the presentation to the next frame.&lt;/p&gt;
+     *
+     * &lt;p&gt;No &quot;click&quot; event is generated for the middle button in Firefox.
+     * See {@link sozi.actions-onMouseDown} for middle click handling.&lt;/p&gt;
+     *
+     * &lt;p&gt;Dragging the mouse produces a &quot;click&quot; event when the button is released.
+     * If flag {@link sozi.actions-mouseDragged} was set by {@link sozi.actions-onMouseDrag},
+     * then the click event is the result of a drag action.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onClick(evt) {
+        if (!isPlayerEvent(evt)) {
+            return;
+        }
+        if (!mouseDragged &amp;&amp; evt.button !== TOC_BUTTON) {
+            player.moveToNext();
+        }
+        evt.stopPropagation();
+        evt.preventDefault();
+    }
+
+    /**
+     * Event handler: mouse wheel.
+     *
+     * &lt;p&gt;Rolling the mouse wheel stops the presentation and zooms the current display.&lt;/p&gt;
+     *
+     * FIXME shift key does not work in Opera
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onWheel(evt) {
+        if (!isPlayerEvent(evt)) {
+            return;
+        }
+        
+        if (!evt) {
+            evt = window.event;
+        }
+
+        var delta = 0;
+        if (evt.wheelDelta) { // IE and Opera
+            delta = evt.wheelDelta;
+        }
+        else if (evt.detail) { // Mozilla
+            delta = -evt.detail;
+        }
+        
+        if (delta !== 0) {
+            if (evt.shiftKey) {
+                rotate(delta);
+            }
+            else {
+                zoom(delta, evt.clientX, evt.clientY);
+            }
+        }
+        
+        evt.stopPropagation();
+        evt.preventDefault();
+    }
+
+    /**
+     * Event handler: key press.
+     *
+     * &lt;p&gt;Keyboard handling is split into two methods:
+     * {@link sozi.actions-onKeyPress} and {@link sozi.actions-onKeyDown}
+     * in order to get the same behavior across browsers.&lt;/p&gt;
+     *
+     * &lt;p&gt;This method handles character keys &quot;+&quot;, &quot;-&quot;, &quot;=&quot;, &quot;F&quot; and &quot;T&quot;.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onKeyPress(evt) {
+        // Keys with modifiers are ignored
+        if (evt.altKey || evt.ctrlKey || evt.metaKey) {
+            return;
+        }
+
+        switch (evt.charCode || evt.which) {
+        case 43: // +
+            zoom(1, window.innerWidth / 2, window.innerHeight / 2);
+            break;
+        case 45: // -
+            zoom(-1, window.innerWidth / 2, window.innerHeight / 2);
+            break;
+        case 61: // =
+            player.moveToCurrent();
+            break;
+        case 70: // F
+        case 102: // f
+            player.showAll();
+            break;
+        case 84: // T
+        case 116: // t
+            toggleFrameList();
+            break;
+        case 82: // R
+            rotate(-1);
+            break;
+        case 114: // r
+            rotate(1);
+            break;
+        default:
+            return;
+        }
+
+        evt.stopPropagation();
+        evt.preventDefault();
+    }
+
+    /**
+     * Event handler: key down.
+     *
+     * &lt;p&gt;Keyboard handling is split into two methods:
+     * {@link sozi.actions-onKeyPress} and {@link sozi.actions-onKeyDown}
+     * in order to get the same behavior across browsers.&lt;/p&gt;
+     *
+     * &lt;p&gt;This method handles navigation keys (arrows, page up/down, home, end)
+     * and the space and enter keys.&lt;/p&gt;
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function onKeyDown(evt) {
+        // Keys with Alt/Ctrl/Meta modifiers are ignored
+        if (evt.altKey || evt.ctrlKey || evt.metaKey) {
+            return;
+        }
+
+        switch (evt.keyCode) {
+            case 36: // Home
+                if (evt.shiftKey) {
+                    player.jumpToFirst();
+                }
+                else {
+                    player.moveToFirst();
+                }
+                break;
+            case 35: // End
+                if (evt.shiftKey) {
+                    player.jumpToLast();
+                }
+                else {
+                    player.moveToLast();
+                }
+                break;
+            case 38: // Arrow up
+            case 33: // Page up
+            case 37: // Arrow left
+                if (evt.shiftKey) {
+                    player.jumpToPrevious();
+                }
+                else {
+                    player.moveToPrevious();
+                }
+                break;
+            case 40: // Arrow down
+            case 34: // Page down
+            case 39: // Arrow right
+            case 13: // Enter
+            case 32: // Space
+                if (evt.shiftKey) {
+                    player.jumpToNext();
+                }
+                else {
+                    player.moveToNext();
+                }
+                break;
+            default:
+                // Ignore other keys and propagate the event
+                return;
+        }
+        
+        // Stop event propagation for supported keys
+        evt.stopPropagation();
+        
+        // In some versions of Chrome/Chromium, preventDefault() inhibits the &quot;keypress&quot; event
+        evt.preventDefault();
+    }
+
+    /**
+     * Dummy event handler: stop event propagation.
+     *
+     * @param {Event} evt The DOM event object
+     */
+    function stopEvent(evt) {
+        evt.stopPropagation();
+    }
+
+    /**
+     * Event handler: document load.
+     *
+     * &lt;p&gt;This function sets up all other event handlers for the player.&lt;/p&gt;
+     */
+    function onDisplayReady() {
+        // Prevent event propagation when clicking on a link
+        // FIXME does not work in Firefox when the &lt;a&gt; is referenced through a &lt;use&gt;
+        var links = document.getElementsByTagName(&quot;a&quot;);
+        for (var i = 0; i &lt; links.length; i += 1) {
+            links[i].addEventListener(&quot;click&quot;, stopEvent, false);
+            links[i].addEventListener(&quot;contextmenu&quot;, stopEvent, false);
+        }
+        
+        // Mouse events are constrained to the player viewport
+        // see isPlayerEvent()
+        // TODO also use shift-click as an alternative for middle-click
+        var svgRoot = document.documentElement;
+        svgRoot.addEventListener(&quot;click&quot;, onClick, false);
+        svgRoot.addEventListener(&quot;mousedown&quot;, onMouseDown, false);
+        svgRoot.addEventListener(&quot;mouseup&quot;, onMouseUp, false);
+        svgRoot.addEventListener(&quot;contextmenu&quot;, onContextMenu, false);
+        svgRoot.addEventListener(&quot;DOMMouseScroll&quot;, onWheel, false); // Mozilla
+        window.onmousewheel = onWheel;
+
+        // Keyboard events are global to the SVG document
+        svgRoot.addEventListener(&quot;keypress&quot;, onKeyPress, false);
+        svgRoot.addEventListener(&quot;keydown&quot;, onKeyDown, false);
+    }
+
+    sozi.events.listen(&quot;sozi.display.ready&quot;, onDisplayReady); // @depend events.js
+});
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.animation
+ * @namespace A general-purpose animation controller.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.animation&quot;, function (exports, window) {
+    /** @lends sozi.animation */
+    
+    &quot;use strict&quot;;
+    
+    /**
+     * The browser-specific function to request an animation frame.
+     *
+     * @function
+     */
+    var requestAnimationFrame =
+            window.mozRequestAnimationFrame ||
+            window.webkitRequestAnimationFrame ||
+            window.msRequestAnimationFrame ||
+            window.oRequestAnimationFrame;
+
+    var getCurrentTime = function () {
+        return window.performance &amp;&amp; window.performance.now ?
+            window.performance.now() :
+            Date.now();
+    };
+
+    exports.setAnimationFrameHandlers = function (requestAnimationFrameFunction, getCurrentTimeFunction) {
+        requestAnimationFrame = requestAnimationFrameFunction;
+        getCurrentTime = getCurrentTimeFunction;
+    };
+
+    /**
+     * The default time step.
+     *
+     * &lt;p&gt;For browsers that do not support animation frames.&lt;/p&gt;
+     *
+     * @constant
+     * @type Number
+     */
+    var TIME_STEP_MS = 40;
+    
+    /**
+     * The handle provided by &lt;code&gt;setInterval()&lt;/code&gt;.
+     *
+     * &lt;p&gt;For browsers that do not support animation frames.&lt;/p&gt;
+     */
+    var timer;
+    
+    /**
+     * The list of running animators.
+     *
+     * @type Array
+     */
+    var animatorList = [];
+    
+    /**
+     * The main animation loop.
+     *
+     * &lt;p&gt;This function is called periodically and triggers the
+     * animation steps in all running animators.&lt;/p&gt;
+     *
+     * &lt;p&gt;If all animators are removed from the list of running animators,
+     * then the periodic calling is disabled.&lt;/p&gt;
+     *
+     * &lt;p&gt;This function can be called either through {@link sozi.animation-requestAnimationFrame}
+     * if the browser supports it, or through &lt;code&gt;setInterval()&lt;/code&gt;.&lt;/p&gt;
+     */
+    function loop() {
+        if (animatorList.length &gt; 0) {
+            // If there is at least one animator,
+            // and if the browser provides animation frames,
+            // schedule this function to be called again in the next frame.
+            if (requestAnimationFrame) {
+                requestAnimationFrame(loop);
+            }
+
+            // Step all animators
+            animatorList.forEach(function (animator) {
+                // TODO use timestamp argument:
+                // browser compatibility issue with Date.now()
+                // and performance.now() timestamps.
+                animator.step(getCurrentTime());
+            });
+        }
+        else {
+            // If all animators have been removed,
+            // and if this function is called periodically
+            // through setInterval, disable the periodic calling.
+            if (!requestAnimationFrame) {
+                window.clearInterval(timer);
+            }
+        }
+    }
+    
+    /**
+     * Start the animation loop.
+     *
+     * &lt;p&gt;This function delegates the periodic update of all animators
+     * to the {@link sozi.animation-loop} function, either through {@link sozi.animation-requestAnimationFrame}
+     * if the browser supports it, or through &lt;code&gt;setInterval()&lt;/code&gt;.&lt;/p&gt;
+     */
+    function start() {
+        if (requestAnimationFrame) {
+            requestAnimationFrame(loop);
+        }
+        else {
+            timer = window.setInterval(function () {
+                loop(getCurrentTime());
+            }, TIME_STEP_MS);
+        }
+    }
+    
+    /**
+     * Add a new animator object to the list of running animators.
+     *
+     * &lt;p&gt;If the animator list was empty before calling this function,
+     * then the animation loop is started.&lt;/p&gt;
+     *
+     * @param {sozi.animation.Animator} animator The animator object to add.
+     */
+    function addAnimator(animator) {
+        animatorList.push(animator);
+        if (animatorList.length === 1) {
+            start();
+        }
+    }
+    
+    /**
+     * Remove the given animator from the list of running animators.
+     *
+     * @param {sozi.animation.Animator} animator The animator object to add.
+     */
+    function removeAnimator(animator) {
+        animatorList.splice(animatorList.indexOf(animator), 1);
+    }
+    
+    /**
+     * @class
+     *
+     * An animator provides the logic for animating other objects.
+     *
+     * &lt;p&gt;The main purpose of an animator is to schedule the update
+     * operations in the animated objects.&lt;/p&gt;
+     *
+     * @memberOf sozi.animation
+     * @name Animator
+     * @depend proto.js
+     */
+    exports.Animator = sozi.proto.Object.subtype({
+        /** @lends sozi.animation.Animator */
+        
+        /**
+         * Construct a new animator.
+         */
+        construct: function () {
+            /**
+             * The animation duration, in milliseconds.
+             * @type Number
+             */
+            this.durationMs = 0;
+            
+            /**
+             * A &quot;payload&quot; object that can be used by {@link sozi.animation.Animator.onStep}
+             * and {@link sozi.animation.Animator.onDone}.
+             */
+            this.data = null;
+            
+            /**
+             * The start time of the animation.
+             * @type Number
+             */
+            this.initialTime = 0;
+            
+            /**
+             * The current state of this animator.
+             * @type Boolean
+             */
+            this.started = false;
+        },
+
+        /**
+         * Start the current animator.
+         *
+         * &lt;p&gt;The current animator is added to the list of running animators
+         * and is put in the &quot;started&quot; state.
+         * It will be removed from the list automatically when the given duration
+         * has elapsed.&lt;/p&gt;
+         *
+         * &lt;p&gt;Method {@link sozi.animation.Animator.onStep} is called once before starting the animation.&lt;/p&gt;
+         *
+         * @param {Number} durationMs The animation duration, in milliseconds
+         * @param data Some data that can be used in {@link sozi.animation.Animator.onStep}
+         * and {@link sozi.animation.Animator.onDone}
+         */
+        start: function (durationMs, data) {
+            this.durationMs = durationMs;
+            this.data = data;
+            this.initialTime = getCurrentTime();
+            this.onStep(0);
+            if (!this.started) {
+                this.started = true;
+                addAnimator(this);
+            }
+        },
+
+        /**
+         * Stop the current animator.
+         *
+         * &lt;p&gt;The current animator is removed from the list of running animators
+         * and is put in the &quot;stopped&quot; state.&lt;/p&gt;
+         */
+        stop: function () {
+            if (this.started) {
+                removeAnimator(this);
+                this.started = false;
+            }
+        },
+
+        /**
+         * Perform one animation step.
+         *
+         * &lt;p&gt;This function is called automatically by the {@link sozi.animation-loop} function.
+         * It calls {@link sozi.animation.Animator.onStep}.
+         * If the animation duration has elapsed, {@link sozi.animation.Animator.onDone} is called.&lt;/p&gt;
+         *
+         * @param {Number} currentTime The current time
+         */
+        step: function (currentTime) {
+            var elapsedTime = currentTime - this.initialTime;
+            if (elapsedTime &gt;= this.durationMs) {
+                this.stop();
+                this.onStep(1);
+                this.onDone();
+            } else {
+                this.onStep(elapsedTime / this.durationMs);
+            }
+        },
+        
+        /**
+         * This method is called automatically on each animation step.
+         *
+         * &lt;p&gt;The default implementation does nothing. Override it in a
+         * subclass or instance to provide your own implementation.&lt;p&gt;
+         *
+         * @param {Number} progress The elapsed fraction of the total duration (comprised between 0 and 1 included).
+         */
+        onStep: function (progress) {
+            // Do nothing
+        },
+        
+        /**
+         * This method is called automatically when the animation ends.
+         *
+         * &lt;p&gt;The default implementation does nothing. Override it in a
+         * subclass or instance to provide your own implementation.&lt;p&gt;
+         */
+        onDone: function () {
+            // Do nothing
+        }
+    });
+
+    /*
+     * The acceleration profiles.
+     *
+     * Each profile is a function that operates in the interval [0, 1]
+     * and produces a result in the same interval.
+     *
+     * These functions are meant to be called in {@link sozi.animation.Animator.onStep}
+     * to transform the progress indicator according to the desired
+     * acceleration effect.
+     */
+    exports.profiles = {
+        &quot;linear&quot;: function (x) {
+            return x;
+        },
+
+        &quot;accelerate&quot;: function (x) {
+            return Math.pow(x, 3);
+        },
+
+        &quot;strong-accelerate&quot;: function (x) {
+            return Math.pow(x, 5);
+        },
+
+        &quot;decelerate&quot;: function (x) {
+            return 1 - Math.pow(1 - x, 3);
+        },
+
+        &quot;strong-decelerate&quot;: function (x) {
+            return 1 - Math.pow(1 - x, 5);
+        },
+
+        &quot;accelerate-decelerate&quot;: function (x) {
+            var xs = x &lt;= 0.5 ? x : 1 - x,
+                y = Math.pow(2 * xs, 3) / 2;
+            return x &lt;= 0.5 ? y : 1 - y;
+        },
+
+        &quot;strong-accelerate-decelerate&quot;: function (x) {
+            var xs = x &lt;= 0.5 ? x : 1 - x,
+                y = Math.pow(2 * xs, 5) / 2;
+            return x &lt;= 0.5 ? y : 1 - y;
+        },
+
+        &quot;decelerate-accelerate&quot;: function (x) {
+            var xs = x &lt;= 0.5 ? x : 1 - x,
+                y = (1 - Math.pow(1 - 2 * xs, 2)) / 2;
+            return x &lt;= 0.5 ? y : 1 - y;
+        },
+
+        &quot;strong-decelerate-accelerate&quot;: function (x) {
+            var xs = x &lt;= 0.5 ? x : 1 - x,
+                y = (1 - Math.pow(1 - 2 * xs, 3)) / 2;
+            return x &lt;= 0.5 ? y : 1 - y;
+        },
+        
+        &quot;immediate-beginning&quot;: function (x) {
+            return 1;
+        },
+        
+        &quot;immediate-end&quot;: function (x) {
+            return x === 1 ? 1 : 0;
+        },
+        
+        &quot;immediate-middle&quot;: function (x) {
+            return x &gt;= 0.5 ? 1 : 0;
+        }
+    };
+});
+
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.display
+ * @namespace Display management.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.display&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    // Constant: the Sozi namespace
+    var SVG_NS = &quot;http://www.w3.org/2000/svg&quot;;
+
+    var XLINK_NS = &quot;http://www.w3.org/1999/xlink&quot;;
+    
+    // The global document object
+    var document = window.document;
+    
+    // The initial bounding box of the whole document,
+    // assigned in onDocumentReady()
+    var initialBBox;
+    
+    var lastWindowWidth;
+    var lastWindowHeight;
+    
+    exports.viewPorts = {};
+    
+    var primaryViewport;
+
+    /**
+     * @depend proto.js
+     */
+    exports.CameraState = sozi.proto.Object.subtype({
+        construct : function () {
+            // Center coordinates
+            this.cx = this.cy = 0;
+            
+            // Dimensions
+            this.width = this.height = 1;
+            
+            // Rotation angle, in degrees
+            this.angle = 0;
+            
+            // Clipping
+            this.clipped = true;
+            
+            // Transition zoom
+            this.transitionZoomPercent = 0;
+            
+            // Transition profile
+            this.transitionProfile = sozi.animation.profiles.linear;
+            
+            // Transition path
+            this.transitionPath = null;
+        },
+
+        setCenter: function (cx, cy) {
+            this.cx = cx;
+            this.cy = cy;
+            return this;
+        },
+        
+        setSize: function (width, height) {
+            this.width = width;
+            this.height = height;
+            return this;
+        },
+        
+        setClipped: function (clipped) {
+            this.clipped = clipped;
+            return this;
+        },
+        
+        /*
+         * Set the angle of the current camera state.
+         * The angle of the current state is normalized
+         * in the interval [-180 ; 180]
+         */
+        setAngle: function (angle) {
+            this.angle = (angle + 180) % 360 - 180;
+            return this;
+        },
+        
+        setRawAngle: function (angle) {
+            this.angle = angle;
+            return this;
+        },
+        
+        setTransitionZoomPercent: function (zoomPercent) {
+            this.transitionZoomPercent = zoomPercent;
+            return this;
+        },
+        
+        setTransitionProfile: function (profile) {
+            this.transitionProfile = profile;
+            return this;
+        },
+        
+        setTransitionPath: function (svgPath) {
+            this.transitionPath = svgPath;
+            return this;
+        },
+        
+        /*
+         * Set the current camera's properties to the given SVG element.
+         *
+         * If the element is a rectangle, the properties of the frames are based
+         * on the geometrical properties of the rectangle.
+         * Otherwise, the properties of the frame are based on the bounding box
+         * of the given element.
+         *
+         * Parameters:
+         *    - svgElement: an element from the SVG DOM
+         */
+        setAtElement: function (svgElement) {
+            // Read the raw bounding box of the given SVG element
+            var x, y, w, h;
+            if (svgElement.nodeName === &quot;rect&quot;) {
+                x = svgElement.x.baseVal.value;
+                y = svgElement.y.baseVal.value;
+                w = svgElement.width.baseVal.value;
+                h = svgElement.height.baseVal.value;
+            } else {
+                var b = svgElement.getBBox();
+                x = b.x;
+                y = b.y;
+                w = b.width;
+                h = b.height;
+            }
+
+            // Compute the raw coordinates of the center
+            // of the given SVG element
+            var c = document.documentElement.createSVGPoint();
+            c.x = x + w / 2;
+            c.y = y + h / 2;
+            
+            // Compute the coordinates of the center of the given SVG element
+            // after its current transformation
+            var matrix = svgElement.getCTM();
+            c = c.matrixTransform(matrix);
+
+            // Compute the scaling factor applied to the given SVG element
+            var scale = Math.sqrt(matrix.a * matrix.a + matrix.b * matrix.b);
+            
+            // Update the camera to match the bounding box information of the
+            // given SVG element after its current transformation
+            return this.setCenter(c.x, c.y)
+                .setSize(w * scale, h * scale)
+                .setAngle(Math.atan2(matrix.b, matrix.a) * 180 / Math.PI);
+        },
+
+        setAtState: function (other) {
+            return this.setCenter(other.cx, other.cy)
+                .setSize(other.width, other.height)
+                .setAngle(other.angle)
+                .setClipped(other.clipped)
+                .setTransitionZoomPercent(other.transitionZoomPercent)
+                .setTransitionProfile(other.transitionProfile)
+                .setTransitionPath(other.transitionPath);
+        },
+        
+        interpolatableAttributes: [&quot;width&quot;, &quot;height&quot;, &quot;angle&quot;],
+        
+        interpolate: function (initialState, finalState, ratio, useTransitionPath, reverseTransitionPath) {
+            var remaining = 1 - ratio;
+            for (var i = 0; i &lt; this.interpolatableAttributes.length; i += 1) {
+                var attr = this.interpolatableAttributes[i];
+                this[attr] = finalState[attr] * ratio + initialState[attr] * remaining;
+            }
+
+            var svgPath = reverseTransitionPath ? initialState.transitionPath : finalState.transitionPath;
+            if (useTransitionPath &amp;&amp; svgPath) {
+                var pathLength = svgPath.getTotalLength();
+                
+                if (reverseTransitionPath) {
+                    var startPoint = svgPath.getPointAtLength(pathLength);
+                    var endPoint = svgPath.getPointAtLength(0);
+                    var currentPoint = svgPath.getPointAtLength(pathLength * remaining);
+                }
+                else {
+                    var startPoint = svgPath.getPointAtLength(0);
+                    var endPoint = svgPath.getPointAtLength(pathLength);
+                    var currentPoint = svgPath.getPointAtLength(pathLength * ratio);
+                }
+ 
+                this.cx = currentPoint.x + (finalState.cx - endPoint.x) * ratio + (initialState.cx - startPoint.x) * remaining;
+                this.cy = currentPoint.y + (finalState.cy - endPoint.y) * ratio + (initialState.cy - startPoint.y) * remaining;
+            }
+            else {
+                this.cx = finalState.cx * ratio + initialState.cx * remaining;
+                this.cy = finalState.cy * ratio + initialState.cy * remaining;
+            }
+        }
+    });
+    
+    exports.Camera = exports.CameraState.subtype({
+        construct: function (viewPort, idLayer) {
+            exports.CameraState.construct.call(this);
+            
+            this.viewPort = viewPort;
+            
+            // Clipping rectangle
+            this.svgClipRect = document.createElementNS(SVG_NS, &quot;rect&quot;);
+        
+            // Clipping path
+            var svgClipPath = document.createElementNS(SVG_NS, &quot;clipPath&quot;);
+            svgClipPath.setAttribute(&quot;id&quot;, &quot;sozi-clip-path-&quot; + viewPort.id + &quot;-&quot; + idLayer);
+            svgClipPath.appendChild(this.svgClipRect);
+            viewPort.svgGroup.appendChild(svgClipPath);
+
+            // The group that will support the clipping operation
+            var svgClippedGroup = document.createElementNS(SVG_NS, &quot;g&quot;);
+            svgClippedGroup.setAttribute(&quot;clip-path&quot;, &quot;url(#sozi-clip-path-&quot; + viewPort.id + &quot;-&quot; + idLayer + &quot;)&quot;);
+            viewPort.svgGroup.appendChild(svgClippedGroup);
+            
+            if (viewPort.isPrimary) {
+                // This group will support transformations
+                // we keep the layer group clean since it can be referenced
+                // from &lt;use&gt; elements
+                this.svgLayer = document.createElementNS(SVG_NS, &quot;g&quot;);
+                this.svgLayer.appendChild(document.getElementById(idLayer));
+            }
+            else {
+                // A &lt;use&gt; element referencing the target layer
+                this.svgLayer = document.createElementNS(SVG_NS, &quot;use&quot;);
+                this.svgLayer.setAttributeNS(XLINK_NS, &quot;href&quot;, &quot;#&quot; + idLayer);
+            }
+            svgClippedGroup.appendChild(this.svgLayer);
+        },
+        
+        setAtState: function (other) {
+            return exports.CameraState.setAtState.call(this, other).update();
+        },
+        
+        getScale: function () {
+            return Math.min(this.viewPort.width / this.width, this.viewPort.height / this.height);
+        },
+        
+        rotate: function (angle) {
+            return this.setAngle(this.angle + angle).update();
+        },
+
+        zoom: function (factor, x, y) {
+            return this.setSize(this.width / factor, this.height / factor)
+                       .drag(
+                            (1 - factor) * (x - this.viewPort.width / 2),
+                            (1 - factor) * (y - this.viewPort.height / 2)
+                        );
+        },
+        
+        drag: function (deltaX, deltaY) {
+            var scale = this.getScale();
+            var angleRad = this.angle * Math.PI / 180;
+            var si = Math.sin(angleRad);
+            var co = Math.cos(angleRad);
+            return this.setCenter(
+                    this.cx - (deltaX * co - deltaY * si) / scale,
+                    this.cy - (deltaX * si + deltaY * co) / scale
+                ).setClipped(false).update();
+        },
+
+        update: function () {
+            var scale = this.getScale();
+                    
+            // Compute the size and location of the frame on the screen
+            var width = this.width  * scale;
+            var height = this.height * scale;
+            var x = (this.viewPort.width - width) / 2;
+            var y = (this.viewPort.height - height) / 2;
+
+            // Adjust the location and size of the clipping rectangle and the frame rectangle
+            this.svgClipRect.setAttribute(&quot;x&quot;, this.clipped ? x : 0);
+            this.svgClipRect.setAttribute(&quot;y&quot;, this.clipped ? y : 0);
+            this.svgClipRect.setAttribute(&quot;width&quot;,  this.clipped ? width  : this.viewPort.width);
+            this.svgClipRect.setAttribute(&quot;height&quot;, this.clipped ? height : this.viewPort.height);
+                    
+            // Compute and apply the geometrical transformation to the layer group
+            var translateX = -this.cx + this.width / 2  + x / scale;
+            var translateY = -this.cy + this.height / 2 + y / scale;
+
+            this.svgLayer.setAttribute(&quot;transform&quot;,
+                &quot;scale(&quot; + scale + &quot;)&quot; +
+                &quot;translate(&quot; + translateX + &quot;,&quot; + translateY + &quot;)&quot; +
+                &quot;rotate(&quot; + (-this.angle) + ',' + this.cx + &quot;,&quot; + this.cy + &quot;)&quot;
+            );
+            
+            return this;
+        }
+    });
+    
+    /**
+     * @depend proto.js
+     */
+    exports.ViewPort = sozi.proto.Object.subtype({
+        construct: function (id, idLayerList, primary) {
+            this.id = id;
+            exports.viewPorts[id] = this;
+            
+            this.isPrimary = !!primary;
+            
+            if (this.isPrimary) {
+                if (primaryViewport) {
+                    throw &quot;Failed to create a primary viewport. A primary viewport already exists.&quot;;
+                }
+                else {
+                    primaryViewport = this;
+                }
+            }
+            
+            // TODO add a clip path for the viewport
+            this.svgGroup = document.createElementNS(SVG_NS, &quot;g&quot;);
+            this.svgGroup.setAttribute(&quot;class&quot;, &quot;sozi-viewport&quot;);
+            this.svgGroup.setAttribute(&quot;id&quot;, &quot;sozi-viewport-&quot; + id);
+            document.documentElement.appendChild(this.svgGroup);
+            
+            this.setLocation(0, 0).setSize(window.innerWidth, window.innerHeight);
+            
+            // Create a camera for each layer
+            this.cameras = {};
+            idLayerList.forEach(function (idLayer) {
+                this.cameras[idLayer] = exports.Camera.instance(this, idLayer);
+            }, this);
+        },
+        
+        setSize: function (width, height) {
+            this.width = width;
+            this.height = height;
+            return this;
+        },
+        
+        setLocation: function (x, y) {
+            this.x = x;
+            this.y = y;
+            return this;
+        },
+
+        contains: function (x, y) {
+            return x &gt;= this.x &amp;&amp; x &lt; this.x + this.width &amp;&amp;
+                   y &gt;= this.y &amp;&amp; y &lt; this.y + this.height;
+        },
+        
+        /*
+         * Returns the geometrical properties of the SVG document
+         *
+         * Returns:
+         *    - The default size, translation and rotation for the document's bounding box
+         */
+        getDocumentState: function () {
+            // This object defines the bounding box of the whole document
+            var camera = exports.CameraState.instance()
+                .setCenter(initialBBox.x + initialBBox.width / 2,
+                           initialBBox.y + initialBBox.height / 2)
+                .setSize(initialBBox.width, initialBBox.height)
+                .setClipped(false);
+            
+            // Copy the document's bounding box to all layers
+            var result = {};
+            for (var idLayer in this.cameras) {
+                result[idLayer] = camera;
+            }
+            return result;
+        },
+
+        /*
+         * Apply geometrical transformations to the image according to the current
+         * geometrical attributes of this Display.
+         *
+         * This method is called automatically when the window is resized.
+         */
+        update: function () {
+            this.svgGroup.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + this.x + &quot;,&quot; + this.y + &quot;)&quot;);
+            for (var idLayer in this.cameras) {
+                this.cameras[idLayer].update();
+            }
+            return this;
+        },
+
+        /*
+         * Transform the SVG document to show the given frame.
+         *
+         * Parameters:
+         *    - frame: the frame to show
+         */
+        showFrame: function (frame) {
+            for (var idLayer in frame.states) {
+                this.cameras[idLayer].setAtState(frame.states[idLayer]);
+            }
+            return this;
+        },
+
+        /*
+         * Apply an additional translation to the SVG document based on onscreen coordinates.
+         *
+         * Parameters:
+         *    - deltaX: the horizontal displacement, in pixels
+         *    - deltaY: the vertical displacement, in pixels
+         */
+        drag: function (deltaX, deltaY) {
+            for (var idLayer in this.cameras) {
+                this.cameras[idLayer].drag(deltaX, deltaY);
+            }
+            return this;
+        },
+
+        /*
+         * Zooms the display with the given factor.
+         *
+         * The zoom is centered around (x, y) with respect to the center of the display area.
+         */
+        zoom: function (factor, x, y) {
+            for (var idLayer in this.cameras) {
+                this.cameras[idLayer].zoom(factor, x, y);
+            }
+            return this;
+        },
+
+        /*
+         * Rotate the display with the given angle.
+         *
+         * The rotation is centered around the center of the display area.
+         */
+        rotate: function (angle) {
+            for (var idLayer in this.cameras) {
+                this.cameras[idLayer].rotate(angle);
+            }
+            return this;
+        },
+        
+        /**
+         * The default handler for window resize events.
+         *
+         * @param widthRatio The horizontal resize ratio
+         * @param heightRatio The vertical resize ratio
+         */
+        onWindowResize: function (widthRatio, heightRatio) {
+            this.setLocation(this.x * widthRatio, this.y * heightRatio)
+                .setSize(this.width * widthRatio, this.height * heightRatio)
+                .update();
+        }
+    });
+    
+    /*
+     * Initializes the current Display.
+     *
+     * This method prepares the DOM representation of the current SVG document.
+     * All the image is embedded into a global &quot;g&quot; element on which transformations will be applied.
+     * A clipping rectangle is added.
+     *
+     * This method must be called when the document is ready to be manipulated.
+     */
+    function onDocumentReady() {
+        var svgRoot = document.documentElement; // TODO check SVG tag
+        
+        // Save the initial bounding box of the document
+        // and force its dimensions to the browser window
+        initialBBox = svgRoot.getBBox();
+        lastWindowWidth = window.innerWidth;
+        lastWindowHeight = window.innerHeight;
+        svgRoot.setAttribute(&quot;width&quot;, lastWindowWidth);
+        svgRoot.setAttribute(&quot;height&quot;, lastWindowHeight);
+        
+        sozi.events.fire(&quot;sozi.display.ready&quot;);
+    }
+
+    /*
+     * Resizes the SVG document to fit the browser window.
+     *
+     * This method calls onWindowResize on all registered viewports.
+     */
+    function resize() {
+        var svgRoot = document.documentElement;
+        svgRoot.setAttribute(&quot;width&quot;, window.innerWidth);
+        svgRoot.setAttribute(&quot;height&quot;, window.innerHeight);
+        
+        for (var vp in exports.viewPorts) {
+            exports.viewPorts[vp].onWindowResize(window.innerWidth / lastWindowWidth, window.innerHeight / lastWindowHeight);
+        }
+
+        lastWindowWidth = window.innerWidth;
+        lastWindowHeight = window.innerHeight;
+    }
+    
+    sozi.events.listen(&quot;sozi.document.ready&quot;, onDocumentReady); // @depend events.js
+    window.addEventListener(&quot;resize&quot;, resize, false);
+});
+
+/*
+* Sozi - A presentation tool using the SVG standard
+*
+* Copyright (C) 2010-2013 Guillaume Savaton
+*
+* This program is dual licensed under the terms of the MIT license
+* or the GNU General Public License (GPL) version 3.
+* A copy of both licenses is provided in the doc/ folder of the
+* official release of Sozi.
+*
+* See http://sozi.baierouge.fr/wiki/en:license for details.
+*/
+
+/**
+ * @name sozi.document
+ * @namespace Document analysis.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.document&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    // An alias to the global document object
+    var document = window.document;
+    
+    // Constant: the Sozi namespace
+    var SOZI_NS = &quot;http://sozi.baierouge.fr&quot;;
+    
+    // Constant: the default frame properties, if missing in the SVG document
+    var DEFAULTS = {
+        &quot;title&quot;: &quot;Untitled&quot;,
+        &quot;sequence&quot;: &quot;0&quot;,
+        &quot;hide&quot;: &quot;true&quot;,
+        &quot;clip&quot;: &quot;true&quot;,
+        &quot;show-in-frame-list&quot;: &quot;true&quot;,
+        &quot;timeout-enable&quot;: &quot;false&quot;,
+        &quot;timeout-ms&quot;: &quot;5000&quot;,
+        &quot;transition-duration-ms&quot;: &quot;1000&quot;,
+        &quot;transition-zoom-percent&quot;: &quot;0&quot;,
+        &quot;transition-profile&quot;: &quot;linear&quot;,
+        &quot;transition-path-hide&quot;: &quot;true&quot;
+    };
+
+    var DRAWABLE_TAGS = [ &quot;g&quot;, &quot;image&quot;, &quot;path&quot;, &quot;rect&quot;, &quot;circle&quot;,
+        &quot;ellipse&quot;, &quot;line&quot;, &quot;polyline&quot;, &quot;polygon&quot;, &quot;text&quot;, &quot;clippath&quot; ];
+
+    // The definitions of all valid frames in the current document
+    exports.frames = [];
+    
+    // The list of layer ids managed by Sozi
+    exports.idLayerList = [];
+    
+    /*
+    * Returns the value of an attribute of a given Sozi SVG element.
+    *
+    * If the attribute is empty or does not exist,
+    * then a default value is returned (See DEFAULTS).
+    */
+    function readAttribute(soziElement, attr) {
+        return soziElement.getAttributeNS(SOZI_NS, attr) || DEFAULTS[attr];
+    }
+
+    function readStateForLayer(frame, idLayer, soziElement) {
+        var state = frame.states[idLayer] =
+            frame.states[idLayer] || sozi.display.CameraState.instance();
+        
+        if (typeof state.transitionZoomPercent === &quot;undefined&quot; || soziElement.hasAttributeNS(SOZI_NS, &quot;transition-zoom-percent&quot;)) {
+            state.setTransitionZoomPercent(parseInt(readAttribute(soziElement, &quot;transition-zoom-percent&quot;), 10));
+        }
+
+        if (typeof state.transitionProfile === &quot;undefined&quot; || soziElement.hasAttributeNS(SOZI_NS, &quot;transition-profile&quot;)) {
+            state.setTransitionProfile(sozi.animation.profiles[readAttribute(soziElement, &quot;transition-profile&quot;)]);
+        }
+        
+        if (typeof state.transitionPath === &quot;undefined&quot; || soziElement.hasAttributeNS(SOZI_NS, &quot;transition-path&quot;)) {
+            var svgPath = document.getElementById(soziElement.getAttributeNS(SOZI_NS, &quot;transition-path&quot;));
+            if (svgPath &amp;&amp; svgPath.nodeName === &quot;path&quot;) {
+                state.setTransitionPath(svgPath);
+                if (readAttribute(soziElement, &quot;transition-path-hide&quot;) === &quot;true&quot;) {
+                    svgPath.style.visibility = &quot;hidden&quot;;
+                }
+            }
+        }
+        
+        if (soziElement.hasAttributeNS(SOZI_NS, &quot;refid&quot;)) {
+            var svgElement = document.getElementById(soziElement.getAttributeNS(SOZI_NS, &quot;refid&quot;));
+            if (svgElement) {
+                state.setAtElement(svgElement);
+                if (readAttribute(soziElement, &quot;hide&quot;) === &quot;true&quot;) {
+                    svgElement.style.visibility = &quot;hidden&quot;;
+                }
+            }
+        }
+            
+        if (soziElement.hasAttributeNS(SOZI_NS, &quot;clip&quot;)) {
+            state.setClipped(readAttribute(soziElement, &quot;clip&quot;) === &quot;true&quot;);
+        }
+    }
+    
+    /*
+    * Builds the list of frames from the current document.
+    *
+    * This method collects all elements with tag &quot;sozi:frame&quot; and
+    * retrieves their geometrical and animation attributes.
+    * SVG elements that should be hidden during the presentation are hidden.
+    *
+    * The resulting list is available in frames, sorted by frame indices.
+    */
+    function readFrames() {
+        // Collect all group ids referenced in &lt;layer&gt; elements
+        var idLayerRefList = [];
+        var soziLayerList = document.getElementsByTagNameNS(SOZI_NS, &quot;layer&quot;);
+        for (var i = 0; i &lt; soziLayerList.length; i += 1) {
+            var idLayer = soziLayerList[i].getAttributeNS(SOZI_NS, &quot;group&quot;);
+            if (idLayer &amp;&amp; idLayerRefList.indexOf(idLayer) === -1) {
+                idLayerRefList.push(idLayer);
+            }
+        }
+
+        // Reorganize the document, grouping objects that do not belong
+        // to a group referenced in &lt;layer&gt; elements
+        var svgRoot = document.documentElement;
+        var SVG_NS = &quot;http://www.w3.org/2000/svg&quot;;
+
+        // Create the first wrapper group
+        var svgWrapper = document.createElementNS(SVG_NS, &quot;g&quot;);
+
+        // For each child of the root SVG element
+        var svgElementList = Array.prototype.slice.call(svgRoot.childNodes);
+        svgElementList.forEach(function (svgElement, index) {
+            if (!svgElement.getAttribute) {
+                // Remove text elements
+                svgRoot.removeChild(svgElement);
+            }
+            else if (idLayerRefList.indexOf(svgElement.getAttribute(&quot;id&quot;)) !== -1) {
+                // If the current element is a referenced layer ...
+                if (svgWrapper.firstChild) {
+                    // ... and if there were other non-referenced elements before it,
+                    // append the wrapper group to the &lt;defs&gt; element
+                    svgWrapper.setAttribute(&quot;id&quot;, &quot;sozi-wrapper-&quot; + index);
+                    exports.idLayerList.push(&quot;sozi-wrapper-&quot; + index);
+                    svgRoot.insertBefore(svgWrapper, svgElement);
+                    
+                    // Prepare a new wrapper element
+                    svgWrapper = document.createElementNS(SVG_NS, &quot;g&quot;);
+                }
+                
+                // ... append the current element to the &lt;defs&gt; element
+                exports.idLayerList.push(svgElement.getAttribute(&quot;id&quot;));
+            }
+            else if (DRAWABLE_TAGS.indexOf(svgElement.localName.toLowerCase()) !== -1) {
+                // If the current element is not a referenced layer
+                // and is drawable, move it to the current wrapper element
+                svgRoot.removeChild(svgElement);
+                svgWrapper.appendChild(svgElement);
+            }
+        });
+
+        // Append last wrapper if needed
+        if (svgWrapper.firstChild) {
+            svgWrapper.setAttribute(&quot;id&quot;, &quot;sozi-wrapper-&quot; + svgElementList.length);
+            exports.idLayerList.push(&quot;sozi-wrapper-&quot; + svgElementList.length);
+            svgRoot.appendChild(svgWrapper);
+        }
+
+        
+        // Analyze &lt;frame&gt; elements sorted by sequence number
+        var soziFrameList = Array.prototype.slice.call(document.getElementsByTagNameNS(SOZI_NS, &quot;frame&quot;));
+        soziFrameList.sort(
+            function (a, b) {
+                var seqA = parseInt(readAttribute(a, &quot;sequence&quot;), 10);
+                var seqB = parseInt(readAttribute(b, &quot;sequence&quot;), 10)
+                return seqA - seqB;
+            }
+        );
+        
+        soziFrameList.forEach(function (soziFrame, indexFrame) {
+            var newFrame = {
+                id: soziFrame.getAttribute(&quot;id&quot;),
+                title: readAttribute(soziFrame, &quot;title&quot;),
+                showInFrameList: readAttribute(soziFrame, &quot;show-in-frame-list&quot;) === &quot;true&quot;,
+                sequence: parseInt(readAttribute(soziFrame, &quot;sequence&quot;), 10),
+                timeoutEnable: readAttribute(soziFrame, &quot;timeout-enable&quot;) === &quot;true&quot;,
+                timeoutMs: parseInt(readAttribute(soziFrame, &quot;timeout-ms&quot;), 10),
+                transitionDurationMs: parseInt(readAttribute(soziFrame, &quot;transition-duration-ms&quot;), 10),
+                states: {}
+            };
+
+            // Get the default properties for all layers, either from
+            // the current &lt;frame&gt; element or from the corresponding
+            // layer in the previous frame.
+            // Those properties can later be overriden by &lt;layer&gt; elements
+            exports.idLayerList.forEach(function (idLayer) {
+                if (indexFrame === 0 || idLayer.search(&quot;sozi-wrapper-[0-9]+&quot;) !== -1) {
+                    // In the first frame, or in wrapper layers,
+                    // read layer attributes from the &lt;frame&gt; element
+                    readStateForLayer(newFrame, idLayer, soziFrame);
+                }
+                else {
+                    // After the first frame, in referenced layers,
+                    // copy attributes from the corresponding layer in the previous frame
+                    var currentState = newFrame.states[idLayer] = sozi.display.CameraState.instance();
+                    var previousState = exports.frames[exports.frames.length - 1].states[idLayer];
+                    currentState.setAtState(previousState);
+                }
+            });
+
+            // Collect and analyze &lt;layer&gt; elements in the current &lt;frame&gt; element
+            var soziLayerList = Array.prototype.slice.call(soziFrame.getElementsByTagNameNS(SOZI_NS, &quot;layer&quot;));
+            soziLayerList.forEach(function (soziLayer) {
+                var idLayer = soziLayer.getAttributeNS(SOZI_NS, &quot;group&quot;);
+                if (idLayer &amp;&amp; exports.idLayerList.indexOf(idLayer) !== -1) {
+                    readStateForLayer(newFrame, idLayer, soziLayer);
+                }
+            });
+            
+            // If the &lt;frame&gt; element has at least one valid layer,
+            // add it to the frame list
+            for (var idLayer in newFrame.states) {
+                if (newFrame.states.hasOwnProperty(idLayer)) {
+                    exports.frames.push(newFrame);
+                    break;
+                }
+            }
+        });
+    }
+
+    /**
+     * Return the frame with the given id.
+     *
+     * @return The index of the frame with the given id. -1 if not found.
+     */
+    exports.getFrameIndexForId = function (idFrame) {
+        for (var indexFrame = 0; indexFrame &lt; exports.frames.length; indexFrame += 1) {
+            if (exports.frames[indexFrame].id === idFrame) {
+                return indexFrame;
+            }
+        }
+        return - 1;
+    };
+    
+    /*
+     * Event handler: document load.
+     *
+     * This function reads the frames from the document and fires
+     * the &quot;documentready&quot; event.
+     *
+     * @depend events.js
+     */
+    function onLoad() {
+        document.documentElement.removeAttribute(&quot;viewBox&quot;);
+        readFrames();
+        sozi.events.fire(&quot;sozi.document.ready&quot;);
+    }
+
+    window.addEventListener(&quot;load&quot;, onLoad, false);
+});
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.framelist
+ * @namespace Show the frame list.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.framelist&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    // An alias to the global document object
+	var document = window.document;
+	
+    // Constant: the margin around the text of the frame list
+    var MARGIN = 5;
+    
+	// The SVG group that will contain the frame list
+    var svgTocGroup;
+    
+    // The SVG group that will contain the frame titles
+    var svgTitlesGroup;
+    
+    // The current height of the frame list,
+    // computed during the initialization
+    var tocHeight = 0;
+    
+    // The X coordinate of the frame list in its hidden state
+    var translateXHidden;
+    
+    // The X coordinate of the frame list when it is completely visible
+    var translateXVisible;
+    
+    // The initial X coordinate of the frame list before starting an animation.
+    // This variable is set before showing/hiding the frame list.
+    var translateXStart;
+    
+    // The final X coordinate of the frame list for the starting animation.
+    // This variable is set before showing/hiding the frame list.
+    var translateXEnd;
+    
+    // The current X coordinate of the frame list for the running animation.
+    // This variable is updated on each animation step.
+    var translateX;
+    
+    // The animator object that will manage animations of the frame list
+    var animator;
+    
+    // Constant: the duration of the showing/hiding animation, in milliseconds
+    var ANIMATION_TIME_MS = 300;
+    
+    // Constant: the acceleration profile of the showing/hiding animation
+    var ANIMATION_PROFILE = &quot;decelerate&quot;;
+    
+    // Constant: the SVG namespace
+    var SVG_NS = &quot;http://www.w3.org/2000/svg&quot;;
+
+	function onMouseOut(evt) {
+        var rel = evt.relatedTarget,
+            svgRoot = document.documentElement;
+        while (rel &amp;&amp; rel !== svgTocGroup &amp;&amp; rel !== svgRoot) {
+            rel = rel.parentNode;
+        }
+        if (rel !== svgTocGroup) {
+            exports.hide();
+            sozi.player.restart();
+            evt.stopPropagation();
+        }
+    }
+
+	function onClickArrowUp(evt) {
+        var ty = svgTitlesGroup.getCTM().f;
+        if (ty &lt;= -window.innerHeight / 2) {
+            ty += window.innerHeight / 2;
+        } else if (ty &lt; 0) {
+            ty = 0;
+        }
+        svgTitlesGroup.setAttribute(&quot;transform&quot;, &quot;translate(0,&quot; + ty + &quot;)&quot;);
+        evt.stopPropagation();
+	}
+
+	function onClickArrowDown(evt) {
+        var ty = svgTitlesGroup.getCTM().f;
+        if (ty + tocHeight &gt;= window.innerHeight * 3 / 2) {
+            ty -= window.innerHeight / 2;
+        } else if (ty + tocHeight &gt; window.innerHeight + 2 * MARGIN) {
+            ty = window.innerHeight - tocHeight - 4 * MARGIN;
+        }
+        svgTitlesGroup.setAttribute(&quot;transform&quot;, &quot;translate(0,&quot; + ty + &quot;)&quot;);
+        evt.stopPropagation();
+    }
+
+    /*
+     * Create a function that responds to clicks on frame list entries.
+     */
+    function makeClickHandler(index) {
+        return function (evt) {
+            sozi.player.previewFrame(index);
+            evt.stopPropagation();
+        };
+    }
+    
+    /*
+     * The default event handler, to prevent event propagation
+     * through the frame list.
+     */
+    function defaultEventHandler(evt) {
+	    evt.stopPropagation();
+    }
+    
+    /*
+     * Adds a table of contents to the document.
+     *
+     * The table of contents is a rectangular region with the list of frame titles.
+     * Clicking on a title moves the presentation to the corresponding frame.
+     *
+     * The table of contents is hidden by default.
+     */
+    function onPlayerReady() {
+        svgTocGroup = document.createElementNS(SVG_NS, &quot;g&quot;);
+        svgTocGroup.setAttribute(&quot;id&quot;, &quot;sozi-toc&quot;);
+        document.documentElement.appendChild(svgTocGroup);
+
+        svgTitlesGroup = document.createElementNS(SVG_NS, &quot;g&quot;);
+        svgTocGroup.appendChild(svgTitlesGroup);
+    
+        // The background rectangle of the frame list
+        var tocBackground = document.createElementNS(SVG_NS, &quot;rect&quot;);
+        tocBackground.setAttribute(&quot;id&quot;, &quot;sozi-toc-background&quot;);
+        tocBackground.setAttribute(&quot;x&quot;, MARGIN);
+        tocBackground.setAttribute(&quot;y&quot;, MARGIN);
+        tocBackground.setAttribute(&quot;rx&quot;, MARGIN);
+        tocBackground.setAttribute(&quot;ry&quot;, MARGIN);
+        tocBackground.addEventListener(&quot;click&quot;, defaultEventHandler, false);
+        tocBackground.addEventListener(&quot;mousedown&quot;, defaultEventHandler, false);
+        tocBackground.addEventListener(&quot;mouseout&quot;, onMouseOut, false);
+        svgTitlesGroup.appendChild(tocBackground);
+
+        var tocWidth = 0;
+        sozi.document.frames.forEach(function (frame, frameIndex) {
+            if (frame.showInFrameList) {
+                var text = document.createElementNS(SVG_NS, &quot;text&quot;);
+                text.appendChild(document.createTextNode(frame.title));
+                text.setAttribute(&quot;id&quot;, &quot;sozi-toc-&quot; + frame.id);
+                svgTitlesGroup.appendChild(text);
+    
+                if (frameIndex === sozi.player.currentFrameIndex) {
+                    text.setAttribute(&quot;class&quot;, &quot;sozi-toc-current&quot;);
+                }
+                         
+                var textWidth = text.getBBox().width;
+                tocHeight += text.getBBox().height;
+                if (textWidth &gt; tocWidth) {
+                    tocWidth = textWidth;
+                }
+    
+                text.setAttribute(&quot;x&quot;, 2 * MARGIN);
+                text.setAttribute(&quot;y&quot;, tocHeight + MARGIN);
+                text.addEventListener(&quot;click&quot;, makeClickHandler(frameIndex), false);
+                text.addEventListener(&quot;mousedown&quot;, defaultEventHandler, false);
+            }
+        });
+
+        // The &quot;up&quot; button
+        var tocUp = document.createElementNS(SVG_NS, &quot;path&quot;);
+        tocUp.setAttribute(&quot;class&quot;, &quot;sozi-toc-arrow&quot;);
+        tocUp.setAttribute(&quot;d&quot;, &quot;M&quot; + (tocWidth + 3 * MARGIN) + &quot;,&quot; + (5 * MARGIN) +
+                           &quot; l&quot; + (4 * MARGIN) + &quot;,0&quot; +
+                           &quot; l-&quot; + (2 * MARGIN) + &quot;,-&quot; + (3 * MARGIN) +
+                           &quot; z&quot;);
+        tocUp.addEventListener(&quot;click&quot;, onClickArrowUp, false);
+        tocUp.addEventListener(&quot;mousedown&quot;, defaultEventHandler, false);
+        svgTocGroup.appendChild(tocUp);
+
+        // The &quot;down&quot; button
+        var tocDown = document.createElementNS(SVG_NS, &quot;path&quot;);
+        tocDown.setAttribute(&quot;class&quot;, &quot;sozi-toc-arrow&quot;);
+        tocDown.setAttribute(&quot;d&quot;, &quot;M&quot; + (tocWidth + 3 * MARGIN) + &quot;,&quot; + (7 * MARGIN) +
+                             &quot; l&quot; + (4 * MARGIN) + &quot;,0&quot; +
+                             &quot; l-&quot; + (2 * MARGIN) + &quot;,&quot; + (3 * MARGIN) +
+                             &quot; z&quot;);
+        tocDown.addEventListener(&quot;click&quot;, onClickArrowDown, false);
+        tocDown.addEventListener(&quot;mousedown&quot;, defaultEventHandler, false);
+        svgTocGroup.appendChild(tocDown);
+
+        tocBackground.setAttribute(&quot;width&quot;, tocWidth + 7 * MARGIN);
+        tocBackground.setAttribute(&quot;height&quot;, tocHeight + 2 * MARGIN);
+        
+        translateXHidden = -tocWidth - 9 * MARGIN;
+        translateXVisible = 0;
+        translateX = translateXEnd = translateXHidden;
+        
+        svgTocGroup.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + translateXHidden + &quot;,0)&quot;);
+        animator = sozi.animation.Animator.instance().augment({
+            onStep: function (progress) {
+                var profileProgress = sozi.animation.profiles[ANIMATION_PROFILE](progress),
+                    remaining = 1 - profileProgress;
+                translateX = translateXEnd * profileProgress + translateXStart * remaining;
+                svgTocGroup.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + translateX + &quot;,0)&quot;);
+            }
+        });
+    }
+
+	/*
+	 * Highlight the current frame title in the frame list.
+	 *
+	 * This handler is called on each frame change,
+	 * even when the frame list is hidden.
+	 */
+    function onFrameChange(index) {
+        var currentElementList = Array.prototype.slice.call(document.getElementsByClassName(&quot;sozi-toc-current&quot;));
+        currentElementList.forEach(function (svgElement) {
+            svgElement.removeAttribute(&quot;class&quot;);
+        });
+
+        var frame = sozi.document.frames[index];
+        if (frame.showInFrameList) {
+            document.getElementById(&quot;sozi-toc-&quot; + frame.id).setAttribute(&quot;class&quot;, &quot;sozi-toc-current&quot;);
+        }
+    }
+    
+    /*
+     * Makes the table of contents visible.
+     */
+    exports.show = function () {
+        // Bring frame list to front
+        document.documentElement.appendChild(svgTocGroup);
+        
+        translateXStart = translateX;
+        translateXEnd = translateXVisible;
+        animator.start(ANIMATION_TIME_MS); // FIXME depends on current elapsed time
+    };
+
+    /*
+     * Makes the table of contents invisible.
+     */
+    exports.hide = function () {
+        translateXStart = translateX;
+        translateXEnd = translateXHidden;
+        animator.start(ANIMATION_TIME_MS); // FIXME depends on current elapsed time
+    };
+
+    /*
+     * Returns true if the table of contents is visible, false otherwise.
+     */
+    exports.isVisible = function () {
+        return translateXEnd === translateXVisible;
+    };
+
+    // @depend events.js
+	sozi.events.listen(&quot;sozi.player.ready&quot;, onPlayerReady);
+	sozi.events.listen(&quot;sozi.player.cleanup&quot;, exports.hide);
+	sozi.events.listen(&quot;sozi.player.framechange&quot;, onFrameChange);
+});
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.framenumber
+ * @namespace Show the frame number.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.framenumber&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    // An alias to the global document object
+    var document = window.document;
+    
+    // The SVG group containing the frame number
+    var svgGroup;
+    
+    // The SVG text element and its text node containing the frame number
+    var svgText, svgTextNode;
+    
+    // The SVG circle enclosing the frame number
+    var svgCircle;
+    
+    // Constant: the SVG namespace
+    var SVG_NS = &quot;http://www.w3.org/2000/svg&quot;;
+    
+    function adjust() {
+        var textBBox = svgText.getBBox(),
+            d = Math.max(textBBox.width, textBBox.height) * 0.75,
+            t = d * 1.25;
+        svgCircle.setAttribute(&quot;r&quot;, d);
+        svgGroup.setAttribute(&quot;transform&quot;, &quot;translate(&quot; + t + &quot;,&quot; + t + &quot;)&quot;);
+    }
+    
+    function onPlayerReady() {
+        svgGroup = document.createElementNS(SVG_NS, &quot;g&quot;);
+        svgText = document.createElementNS(SVG_NS, &quot;text&quot;);
+        svgCircle = document.createElementNS(SVG_NS, &quot;circle&quot;);
+        
+        svgGroup.setAttribute(&quot;id&quot;, &quot;sozi-framenumber&quot;);
+
+        svgCircle.setAttribute(&quot;cx&quot;, 0);
+        svgCircle.setAttribute(&quot;cy&quot;, 0);
+        svgGroup.appendChild(svgCircle);
+        
+        svgTextNode = document.createTextNode(sozi.player.currentFrameIndex + 1);
+        svgText.setAttribute(&quot;text-anchor&quot;, &quot;middle&quot;);
+        svgText.setAttribute(&quot;dominant-baseline&quot;, &quot;central&quot;);
+        svgText.setAttribute(&quot;x&quot;, 0);
+        svgText.setAttribute(&quot;y&quot;, 0);
+        svgText.appendChild(svgTextNode);
+        svgGroup.appendChild(svgText);
+        
+        document.documentElement.appendChild(svgGroup);
+        
+        adjust();
+    }
+
+    function onFrameChange(index) {
+        svgTextNode.nodeValue = index + 1;
+    }
+    
+    // @depend events.js
+	sozi.events.listen(&quot;sozi.player.ready&quot;, onPlayerReady);
+	sozi.events.listen(&quot;sozi.player.framechange&quot;, onFrameChange);
+});
+
+/*
+* Sozi - A presentation tool using the SVG standard
+*
+* Copyright (C) 2010-2013 Guillaume Savaton
+*
+* This program is dual licensed under the terms of the MIT license
+* or the GNU General Public License (GPL) version 3.
+* A copy of both licenses is provided in the doc/ folder of the
+* official release of Sozi.
+*
+* See http://sozi.baierouge.fr/wiki/en:license for details.
+*/
+
+/**
+ * @name sozi.links
+ * @namespace Links fix for Webkit.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.links&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    var SVG_NS = &quot;http://www.w3.org/2000/svg&quot;;
+    var XLINK_NS = &quot;http://www.w3.org/1999/xlink&quot;;
+    
+    function getClickHandler(index) {
+        return function (evt) {
+            sozi.player.moveToFrame(index);
+            evt.preventDefault();
+            evt.stopPropagation();
+        };
+    }
+    
+    /*
+     * Event handler: document ready.
+     *
+     * This function adds an event listener to each internal link.
+     * Clicking on a link that targets a frame of this document
+     * will call sozi.player.moveToFrame().
+     */
+    function onDocumentReady() {
+        var links = window.document.getElementsByTagNameNS(SVG_NS, &quot;a&quot;);
+        for (var i = 0; i &lt; links.length; i += 1) {
+            var href = links[i].getAttributeNS(XLINK_NS, &quot;href&quot;);
+            if (href &amp;&amp; href[0] === &quot;#&quot;) {
+                links[i].addEventListener(&quot;click&quot;, getClickHandler(sozi.location.getFrameIndexForHash(href)), false);
+            }
+        }
+    }
+
+    sozi.events.listen(&quot;sozi.document.ready&quot;, onDocumentReady); // @depend events.js
+});
+
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.location
+ * @namespace Manage the URL in the address bar of the browser window.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.location&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    var changedFromWithin = false;
+
+    /*
+     * Returns the frame index corresponding to the URL hash.
+     *
+     * This is a shortcut for sozi.location.getFrameIndexForHash(window.location.hash)
+     */
+    exports.getFrameIndex = function () {
+        return exports.getFrameIndexForHash(window.location.hash);
+    };
+    
+    /*
+     * Returns the frame index corresponding to the given URL hash.
+     *
+     * The URL hash can be either a frame index or a frame id.
+     * In the URL, the frame index starts a 1.
+     * This method converts it into a 0-based index.
+     *
+     * If the URL hash is not a positive integer, then 0 is returned.
+     * It the URL hash is an integer greater than the last frame index, then
+     * the last frame index is returned.
+     */
+    exports.getFrameIndexForHash = function (hash) {
+        var indexOrId = hash ? hash.slice(1) : &quot;1&quot;;
+        var index;
+        if (/^[0-9]+$/.test(indexOrId)) {
+            index = parseInt(indexOrId, 10) - 1;
+        }
+        else {
+            index = sozi.document.getFrameIndexForId(indexOrId);
+        }
+        
+        if (index &lt; 0) {
+            return 0;
+        }
+        else if (index &gt;= sozi.document.frames.length) {
+            return sozi.document.frames.length - 1;
+        }
+        else {
+            return index;
+        }
+    };
+
+    /*
+     * Event handler: hash change.
+     *
+     * This function is called when the URL hash is changed.
+     * If the hash was changed manually in the address bar, and if it corresponds to
+     * a valid frame number, then the presentation moves to that frame.
+     *
+     * The hashchange event can be triggered externally, by the user modifying the URL,
+     * or internally, by the script modifying window.location.hash.
+     */
+    function onHashChange() {
+        var index = exports.getFrameIndex();
+        if (!changedFromWithin) {
+            sozi.player.moveToFrame(index);
+        }
+        changedFromWithin = false;
+    }
+    
+    /*
+     * Event handler: frame change.
+     *
+     * This function is called when the presentation has reached a new frame.
+     * The URL hash is set to the current frame id.
+     */
+    function onFrameChange(index) {
+        changedFromWithin = true;
+        window.location.hash = &quot;#&quot; + sozi.document.frames[index].id;
+    }
+
+    window.addEventListener(&quot;hashchange&quot;, onHashChange, false);
+    sozi.events.listen(&quot;sozi.player.framechange&quot;, onFrameChange); // @depend events.js
+});
+
+/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ *
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+/**
+ * @name sozi.player
+ * @namespace Presentation player.
+ * @depend namespace.js
+ */
+namespace(this, &quot;sozi.player&quot;, function (exports, window) {
+    &quot;use strict&quot;;
+    
+    var viewPort;
+    
+    // The animator object used to animate transitions
+    var animator;
+    
+    // The handle returned by setTimeout() for frame timeout
+    var nextFrameTimeout;
+    
+    // Constants: default animation properties
+    // for out-of-sequence transitions
+    var DEFAULT_DURATION_MS = 500;
+    var DEFAULT_ZOOM_PERCENT = -10;
+    var DEFAULT_PROFILE = &quot;linear&quot;;
+    
+    // The source frame index for the current transition
+    var sourceFrameIndex = 0;
+    
+    // The index of the visible frame
+    exports.currentFrameIndex = 0;
+    
+    // The state of the presentation.
+    // If false, no automatic transition will be fired.
+    var playing = false;
+    
+    // The state of the current frame.
+    // If true, an automatic transition will be fired after the current timeout.
+    var waiting = false;
+
+    /*
+     * Starts waiting before moving to the next frame.
+     *
+     * It the current frame has a timeout set, this method
+     * will register a timer to move to the next frame automatically
+     * after the specified time.
+     *
+     * If the current frame is the last, the presentation will
+     * move to the first frame.
+     */
+    function waitTimeout() {
+        if (sozi.document.frames[exports.currentFrameIndex].timeoutEnable) {
+            waiting = true;
+            var index = (exports.currentFrameIndex + 1) % sozi.document.frames.length;
+            nextFrameTimeout = window.setTimeout(function () {
+                    exports.moveToFrame(index);
+                },
+                sozi.document.frames[exports.currentFrameIndex].timeoutMs
+            );
+        }
+    }
+
+    /*
+     * Starts the presentation from the given frame index (0-based).
+     *
+     * This method sets the &quot;playing&quot; flag, shows the desired frame
+     * and calls waitTimeout.
+     */
+    exports.startFromIndex = function (index) {
+        playing = true;
+        waiting = false;
+        sourceFrameIndex = index;
+        exports.currentFrameIndex = index;
+        viewPort.showFrame(sozi.document.frames[index]);
+        waitTimeout();
+    };
+
+    exports.restart = function () {
+        exports.startFromIndex(exports.currentFrameIndex);
+    };
+
+    /*
+     * Stops the presentation.
+     *
+     * This method clears the &quot;playing&quot;.
+     * If the presentation was in &quot;waiting&quot; mode due to a timeout
+     * in the current frame, then it stops waiting.
+     * The current animation is stopped in its current state.
+     */
+    exports.stop = function () {
+        animator.stop();
+        if (waiting) {
+            window.clearTimeout(nextFrameTimeout);
+            waiting = false;
+        }
+        playing = false;
+        sourceFrameIndex = exports.currentFrameIndex;
+    };
+
+    function getZoomData(zoomPercent, s0, s1) {
+        var result = {
+            ss: ((zoomPercent &lt; 0) ? Math.max(s0, s1) : Math.min(s0, s1)) * (100 - zoomPercent) / 100,
+            ts: 0.5,
+            k: 0
+        };
+
+        if (zoomPercent !== 0) {
+            var a = s0 - s1;
+            var b = s0 - result.ss;
+            var c = s1 - result.ss;
+
+            if (a !== 0) {
+                var d = Math.sqrt(b * c);
+
+                var u = (b - d) / a;
+                var v = (b + d) / a;
+
+                result.ts = (u &gt; 0 &amp;&amp; u &lt;= 1) ? u : v;
+            }
+
+            result.k = b / result.ts / result.ts;
+        }
+
+        return result;
+    }
+
+    /*
+     * Jump to a frame with the given index (0-based).
+     *
+     * This method does not animate the transition from the current
+     * state of the display to the desired frame.
+     *
+     * The presentation is stopped: if a timeout has been set for the
+     * target frame, it will be ignored.
+     *
+     * The URL hash is set to the given frame index (1-based).
+     */
+    exports.jumpToFrame = function (index) {
+        exports.stop();
+        sozi.events.fire(&quot;sozi.player.cleanup&quot;);
+
+        sourceFrameIndex = index;
+        exports.currentFrameIndex = index;
+        viewPort.showFrame(sozi.document.frames[index]);
+
+        sozi.events.fire(&quot;sozi.player.framechange&quot;, index);
+    };
+
+    /*
+     * Returns an associative array where keys are layer names
+     * and values are objects in the form { initialState: finalState: profile: zoomWidth: zoomHeight:}
+     */
+    exports.getAnimationData = function (initialState, finalState, zoomPercent, profile, useTransitionPath, reverseTransitionPath) {
+        var data = {};
+        
+        for (var idLayer in initialState) {
+            data[idLayer] = {
+                initialState: sozi.display.CameraState.instance(),
+                finalState: sozi.display.CameraState.instance(),
+                useTransitionPath: useTransitionPath,
+                reverseTransitionPath: reverseTransitionPath
+            };
+            
+            data[idLayer].profile = profile || finalState[idLayer].transitionProfile;
+            data[idLayer].initialState.setAtState(initialState[idLayer]);
+
+            // If the current layer is referenced in final state, copy the final properties
+            // else, copy initial state to final state for the current layer.
+            if (finalState.hasOwnProperty(idLayer)) {
+                data[idLayer].finalState.setAtState(finalState[idLayer]);
+            }
+            else {
+                data[idLayer].finalState.setAtState(initialState[idLayer]);
+            }
+
+            // Keep the smallest angle difference between initial state and final state
+            // TODO this should be handled in the interpolation function
+            if (data[idLayer].finalState.angle - data[idLayer].initialState.angle &gt; 180) {
+                data[idLayer].finalState.setRawAngle(data[idLayer].finalState.angle - 360);
+            }
+            else if (data[idLayer].finalState.angle - data[idLayer].initialState.angle &lt; -180) {
+                data[idLayer].initialState.setRawAngle(data[idLayer].initialState.angle - 360);
+            }
+
+            var zp = zoomPercent || finalState[idLayer].transitionZoomPercent;
+            
+            if (zp &amp;&amp; finalState.hasOwnProperty(idLayer)) {
+                data[idLayer].zoomWidth = getZoomData(zp,
+                    initialState[idLayer].width,
+                    finalState[idLayer].width);
+                data[idLayer].zoomHeight = getZoomData(zp,
+                    initialState[idLayer].height,
+                    finalState[idLayer].height);
+            }
+        }
+        return data;
+    };
+    
+    exports.previewFrame = function (index) {
+        exports.currentFrameIndex = index;
+        animator.start(DEFAULT_DURATION_MS,
+            exports.getAnimationData(viewPort.cameras, sozi.document.frames[index].states,
+                DEFAULT_ZOOM_PERCENT, sozi.animation.profiles[DEFAULT_PROFILE]),
+                false, false);
+        sozi.events.fire(&quot;sozi.player.framechange&quot;, index);
+    };
+
+    /*
+     * Moves to a frame with the given index (0-based).
+     *
+     * This method animates the transition from the current
+     * state of the display to the desired frame.
+     *
+     * If the given frame index corresponds to the next frame in the list,
+     * the transition properties of the next frame are used.
+     * Otherwise, default transition properties are used.
+     */
+    exports.moveToFrame = function (index) {
+        if (waiting) {
+            window.clearTimeout(nextFrameTimeout);
+            waiting = false;
+        }
+
+        var durationMs, zoomPercent, profile, useTransitionPath, reverseTransitionPath;
+        if (index === (exports.currentFrameIndex - 1) % sozi.document.frames.length) {
+            durationMs = sozi.document.frames[exports.currentFrameIndex].transitionDurationMs;
+            zoomPercent = undefined; // Set for each layer
+            profile = undefined; // Set for each layer
+            useTransitionPath = true;
+            reverseTransitionPath = true;
+        }
+        else if (index === (exports.currentFrameIndex + 1) % sozi.document.frames.length) {
+            durationMs = sozi.document.frames[index].transitionDurationMs;
+            zoomPercent = undefined; // Set for each layer
+            profile = undefined; // Set for each layer
+            useTransitionPath = true;
+            reverseTransitionPath = false;
+        }
+        else {
+            durationMs = DEFAULT_DURATION_MS;
+            zoomPercent = DEFAULT_ZOOM_PERCENT;
+            profile = sozi.animation.profiles[DEFAULT_PROFILE];
+            useTransitionPath = false;
+            reverseTransitionPath = false;
+        }
+
+        sozi.events.fire(&quot;sozi.player.cleanup&quot;);
+
+        playing = true;
+        exports.currentFrameIndex = index;
+
+        animator.start(durationMs, exports.getAnimationData(
+            viewPort.cameras, sozi.document.frames[index].states,
+            zoomPercent, profile,
+            useTransitionPath, reverseTransitionPath));
+
+        sozi.events.fire(&quot;sozi.player.framechange&quot;, index);
+    };
+
+    /**
+     * Jumps to the first frame of the presentation.
+     */
+    exports.jumpToFirst = function () {
+        exports.jumpToFrame(0);
+    };
+    
+    /**
+     * Moves to the first frame of the presentation.
+     */
+    exports.moveToFirst = function () {
+        exports.moveToFrame(0);
+    };
+
+    /**
+     * Jumps to the previous frame.
+     */
+    exports.jumpToPrevious = function () {
+        var index = exports.currentFrameIndex;
+        if (!animator.started || sourceFrameIndex &lt;= exports.currentFrameIndex) {
+            index -= 1;
+        }
+        if (index &gt;= 0) {
+            exports.jumpToFrame(index);
+        }
+    };
+
+    /*
+     * Moves to the previous frame.
+     */
+    exports.moveToPrevious = function () {
+        for (var index = exports.currentFrameIndex - 1; index &gt;= 0; index -= 1) {
+            var frame = sozi.document.frames[index];
+            if (!frame.timeoutEnable || frame.timeoutMs !== 0) {
+                exports.moveToFrame(index);
+                break;
+            }
+        }
+    };
+
+    /**
+     * Jumps to the next frame.
+     */
+    exports.jumpToNext = function () {
+        var index = exports.currentFrameIndex;
+        if (!animator.started || sourceFrameIndex &gt;= exports.currentFrameIndex) {
+            index += 1;
+        }
+        if (index &lt; sozi.document.frames.length) {
+            exports.jumpToFrame(index);
+        }
+    };
+
+    /**
+     * Moves to the next frame.
+     */
+    exports.moveToNext = function () {
+        if (exports.currentFrameIndex &lt; sozi.document.frames.length - 1 || sozi.document.frames[exports.currentFrameIndex].timeoutEnable) {
+            exports.moveToFrame((exports.currentFrameIndex + 1) % sozi.document.frames.length);
+        }
+    };
+
+    /**
+     * Jumps to the last frame of the presentation.
+     */
+    exports.jumpToLast = function () {
+        exports.jumpToFrame(sozi.document.frames.length - 1);
+    };
+
+    /**
+     * Moves to the last frame of the presentation.
+     */
+    exports.moveToLast = function () {
+        exports.moveToFrame(sozi.document.frames.length - 1);
+    };
+
+    /*
+     * Restores the current frame.
+     *
+     * This method restores the display to fit the current frame,
+     * e.g. after the display has been zoomed or dragged.
+     */
+    exports.moveToCurrent = function () {
+        exports.moveToFrame(exports.currentFrameIndex);
+    };
+
+    /*
+     * Shows all the document in the browser window.
+     */
+    exports.showAll = function () {
+        exports.stop();
+        sozi.events.fire(&quot;sozi.player.cleanup&quot;);
+        animator.start(DEFAULT_DURATION_MS,
+            exports.getAnimationData(viewPort.cameras, viewPort.getDocumentState(),
+                DEFAULT_ZOOM_PERCENT, sozi.animation.profiles[DEFAULT_PROFILE],
+                false, false
+            )
+        );
+    };
+
+    /*
+     * Event handler: display ready.
+     */
+    function onDisplayReady() {
+        viewPort = sozi.display.ViewPort.instance(&quot;player&quot;, sozi.document.idLayerList, true);
+        
+        exports.startFromIndex(sozi.location.getFrameIndex());
+
+        // Hack to fix the blank screen bug in Chrome/Chromium
+        // See https://github.com/senshu/Sozi/issues/109
+        window.setTimeout(viewPort.bind(viewPort.update), 1);
+        
+        sozi.events.fire(&quot;sozi.player.ready&quot;);
+    }
+
+    // TODO move the zoom code to display.js
+    exports.onAnimationStep = function (progress, data) {
+        for (var idLayer in data) {
+            var camera = viewPort.cameras[idLayer];
+            
+            camera.interpolate(
+                data[idLayer].initialState,
+                data[idLayer].finalState,
+                data[idLayer].profile(progress),
+                data[idLayer].useTransitionPath,
+                data[idLayer].reverseTransitionPath
+            );
+
+            var ps;
+            if (data[idLayer].zoomWidth &amp;&amp; data[idLayer].zoomWidth.k !== 0) {
+                ps = progress - data[idLayer].zoomWidth.ts;
+                camera.width = data[idLayer].zoomWidth.k * ps * ps + data[idLayer].zoomWidth.ss;
+            }
+
+            if (data[idLayer].zoomHeight &amp;&amp; data[idLayer].zoomHeight.k !== 0) {
+                ps = progress - data[idLayer].zoomHeight.ts;
+                camera.height = data[idLayer].zoomHeight.k * ps * ps + data[idLayer].zoomHeight.ss;
+            }
+
+            camera.setClipped(data[idLayer].finalState.clipped);
+        }
+
+        viewPort.update();
+    };
+    
+    /**
+     * @depend animation.js
+     */
+    animator = sozi.animation.Animator.instance().augment({
+        /*
+         * Event handler: animation step.
+         *
+         * This method is called periodically by animator after the animation
+         * has been started, and until the animation time is elapsed.
+         *
+         * Parameter data provides the following information:
+         *    - initialState and finalState contain the geometrical properties of the display
+         *      at the start and end of the animation.
+         *    - profile is a reference to the speed profile function to use.
+         *    - zoomWidth and zoomHeight are the parameters of the zooming polynomial if the current
+         *      animation has a non-zero zooming effect.
+         *
+         * Parameter progress is a float number between 0 (start of the animation)
+         * and 1 (end of the animation).
+         */
+        onStep: function (progress) {
+            exports.onAnimationStep(progress, this.data);
+        },
+        
+        /*
+         * Event handler: animation done.
+         *
+         * This method is called by animator when the current animation is finished.
+         *
+         * If the animation was a transition in the normal course of the presentation,
+         * then we call the waitTimeout method to process the timeout property of the current frame.
+         */
+        onDone: function () {
+            for (var idLayer in this.data) {
+                viewPort.cameras[idLayer].setAtState(this.data[idLayer].finalState);
+            }
+
+            viewPort.update();
+
+            sourceFrameIndex = exports.currentFrameIndex;
+
+            if (playing) {
+                waitTimeout();
+            }
+        }
+    });
+
+    sozi.events.listen(&quot;sozi.display.ready&quot;, onDisplayReady); // @depend events.js
+});
+
+/*
+    @depend framenumber.js
+    @depend framelist.js
+    @depend actions.js
+    @depend player.js
+    @depend display.js
+    @depend document.js
+    @depend location.js
+    @depend links.js
+*/
+</script>
+  <style
+     id="sozi-style"
+     ns1:version="13.11-30213629">/*
+ * Sozi - A presentation tool using the SVG standard
+ *
+ * Copyright (C) 2010-2013 Guillaume Savaton
+ *
+ * This program is dual licensed under the terms of the MIT license
+ * or the GNU General Public License (GPL) version 3.
+ * A copy of both licenses is provided in the doc/ folder of the
+ * official release of Sozi.
+ * 
+ * See http://sozi.baierouge.fr/wiki/en:license for details.
+ */
+
+#sozi-toc text {
+   fill: #eff;
+   font-family: Verdana, sans-serif;
+   font-size: 12pt;
+}
+
+#sozi-toc text:hover {
+   fill: #0cf;
+   cursor: pointer;
+}
+
+#sozi-toc text.sozi-toc-current {
+   fill: #fa4;
+}
+
+#sozi-toc-background {
+   stroke: #222;
+   stroke-opacity: 0.1;
+   stroke-width: 10;
+   fill: #222;
+   fill-opacity: 0.9;
+}
+
+.sozi-toc-arrow {
+   fill: #eff;
+   fill-opacity: 0.75;
+   stroke: none;
+}
+
+.sozi-toc-arrow:hover {
+   fill: #0cf;
+}
+
+#sozi-framenumber circle {
+   stroke: #222;
+   stroke-opacity: 0.1;
+   stroke-width: 4;
+   fill: #222;
+   fill-opacity: 0.9;
+}
+
+#sozi-framenumber text {
+   fill: #eff;
+   font-family: Verdana, sans-serif;
+   font-size: 12pt;
+}
+</style>
+</svg>
